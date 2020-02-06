@@ -37,21 +37,22 @@ A Caçada ao monstro já começou.”
 
 ##### SOMENTE O CONTADOR DE HISTÓRIA DEVERÁ LER ABAIXO DESTE PONTO!
 
-## Introduction
+## Introdução
 
-“The Monster(s)” is an atypical murder mystery, in that the protagonists will not solve a “whodunnit?”. Instead, they will be confronted by their own natures as they unravel the mystery behind the murders. It is semi-railroaded in that several scenes propel the plot forward without much player input (victim three and four) but it also has several open scenes, where the player characters are left to their own devices.
-The main difficulty from a Storyteller point of view is foreshadowing the reveal in chapter three just enough, as well as managing the shift in mood that occurs over chapter two.
+“O(s) Monstro(s)” é um não típico assassinato misterioso, no qual os protagonistas irão resolver o espetáculo?  Em vez de serem confrontados por suas naturezas eles deverão desvendar o mistério por trás dos assassinatos. Nesta aventura mais ou menos delimitada onde há várias cenas que propõem que a trama siga em frente sem muita interação dos jogadores (como nas vítimas três e quatro), mas também há várias cenas abertas, onde os personagens dos jogadores são levados pelas suas próprias decisões.
+A principal dificuldade do ponto de vista do Contador de História é como revelar apenas o suficiente no Capítulo 3 e como trocar o humor que ocorre Capítulo 2.
 
-##### THEME, MOOD RECURRING MOTIFS
+##### TEMAS, HUMORES E MOTIVOS RECORRENTES
 
-The themes of “The Monster(s)” are Monsters we are - outlining in red ink that vampires are indeed monsters, who not only perform monstrous acts on an almost daily basis, but also eventually sink deeper still; and What should we do with monsters?. The mood should be rage and righteousness in the first acts as the players chase the monster, shifting into personal horror as it is revealed to the players what their characters have done. Recurring motifs are the mirror, as well as punishment for wicked deeds.
+Os temas de “O(s) Monstro(s)” são  os monstros que somos, descrevendo em tinta vermelha  os monstros que os vampiros são de fato, não só realizando atos monstruosos quase que diariamente, mas também eventualmente afundam ainda mais e o que nós  devemos fazer com monstros? O humor pode ser de raiva e justiça nos primeiros atos dos jogadores enquanto caçam o monstro, trocando para horror pessoal quando é revelado para os jogadores o que os seus personagens fizeram. Motivos recorrentes são o espelho dos atos, bem como a punição por atos perversos.
 
-#### Setting the Scenario
+#### Definindo o Cenário
 
-The default setting for this scenario is a small American town, the particulars of which has been left purposefully vague, so as to allow placing it wherever you like.
-The same goes for the various places and people encountered during the scenario: their descriptions are concise, and it is up to you as the Storyteller to add details and depth. Is Marcus Lector a traditional suit, or more of a big game hunter? Is Martha a shrunken old figure, or a perfectly ordinary woman? Are the locations encountered moody and atmospheric, or are you highlighting their banality? Do you give verbose and comprehensive descriptions, or do you let the players’ imaginations do the job? The options are endless, and we cannot tell you which ones would give the best experience for you and your group.
+O padrão para este cenário é uma cidade americana pequena, cujos detalhes foram deixados propositalmente vagos, para permitir colocá-la onde quiser.
+O mesmo acontece com vários lugares e pessoas encontradas durante o cenário, suas descrições são concisas e depende de você contador de história adicionar os detalhes e profundidade. Marcos Lector é um advogado tradicional, ou mais um caçador de jogos? Marta é uma figura velha encolhida, ou uma mulher perfeitamente comum? Os locais encontrados são temperamentais e atmosféricos, ou você vai evidenciar suas banalidades? Você dará descrições abrangentes e detalhadas, ou você deixará aos jogadores o trabalho de imaginar?
+As opções são infinitas e nós não podemos dizer qual delas daria a melhor experiência para você e seu grupo.
 
-#### Storyteller notes
+#### Notas do Contador de História
 
 Below are some additional notes for the Storyteller:
 ```
