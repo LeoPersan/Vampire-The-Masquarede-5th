@@ -12,19 +12,19 @@ Neste cenário de Vampiro: A Máscara 5ª edição, você é um grupo de amigos 
 O que vocês precisam:
 ```
 ■ Uma cópia deste documento, de preferência impresso para que vocês possam olhar durante o jogo e cópias das informações dos personagens entre outros cartões.
-■ Cinco pessoas, uma que atuará como o Contador de História (é o único que deveria ler todo esso documento).
+■ Cinco pessoas, uma que atuará como o Narrador (é o único que deveria ler todo esso documento).
 ■ Lápis e papel para fazer anotações.
 ■ Vários dados de 10 lados de duas cores.
 ```
 
 _NOTA: Vampiro: A Máscara é um jogo para adultos, lidando com temas sérios e às vezes perturbadores. Tenha certeza que todos os participantes estão confortáveis com isso antes de iniciar o jogo. “O(s) Monstro(s)” contém violência explícita e assassinato,  pegando sange sem consentimento, violando a integridade pessoal e fazendo referências para predação sexual. Sempre lembre que você não é o seu personagem, é assumido que vocês estão confortáveis explorando a moralidade da perspectiva dele e não da sua própria.  Também repare que isso não é um tipo cenário de RPG de sucesso ou falha, existem poucos finais felizes._
 
-O Contador de História deve iniciar lendo todo cenário pelo menos uma vez, para que ele ou ela esteja familiarizado em linhas gerais. Apresentar os personagens para os jogadores e distribui-los entre eles, como vocês preferirem. Dê aos jogadores algum tempo para ler os personagens e fazer algumas perguntas antes de você ler o "Bem-vindo ao Mundo das Trevas" que está abaixo, que também  inicia o jogo.
-As regras de Vampiro: A Máscara que são relevantes para esta história estão espalhadas pelo texto, bem como as descrições dos personagens. Os jogadores provavelmente vão sair do cenário proposto, sinta-se livre para usar as regras presentes neste documento, ou você como o Contador de História deverá improvisar.
+O Narrador deve iniciar lendo todo cenário pelo menos uma vez, para que ele ou ela esteja familiarizado em linhas gerais. Apresentar os personagens para os jogadores e distribui-los entre eles, como vocês preferirem. Dê aos jogadores algum tempo para ler os personagens e fazer algumas perguntas antes de você ler o "Bem-vindo ao Mundo das Trevas" que está abaixo, que também  inicia o jogo.
+As regras de Vampiro: A Máscara que são relevantes para esta história estão espalhadas pelo texto, bem como as descrições dos personagens. Os jogadores provavelmente vão sair do cenário proposto, sinta-se livre para usar as regras presentes neste documento, ou você como o Narrador deverá improvisar.
 
 ### O que é um Role-Playing Game?
 
-**Um role-playing game (RPG) é um jogo cooperativo no qual jogadores assumem os papéis dos personagens em um cenário de ficção. Os jogadores atuam com esses papéis dentro da história, tanto através de uma atuação literal quanto uma descrição verbal. O Contador de História (“Mestre” em muitos outros jogos) é responsável por descrever o mundo, jogar com todos os personagens que não são personagens de jogadores, apresentar a trama e ajudar no progresso na história.**
+**Um role-playing game (RPG) é um jogo cooperativo no qual jogadores assumem os papéis dos personagens em um cenário de ficção. Os jogadores atuam com esses papéis dentro da história, tanto através de uma atuação literal quanto uma descrição verbal. O Narrador (“Mestre” em muitos outros jogos) é responsável por descrever o mundo, jogar com todos os personagens que não são personagens de jogadores, apresentar a trama e ajudar no progresso na história.**
 
 ### Bem-vindo ao Mundo das Trevas
 
@@ -40,7 +40,7 @@ A Caçada ao monstro já começou.”
 ## Introdução
 
 “O(s) Monstro(s)” é um não típico assassinato misterioso, no qual os protagonistas irão resolver o espetáculo?  Em vez de serem confrontados por suas naturezas eles deverão desvendar o mistério por trás dos assassinatos. Nesta aventura mais ou menos delimitada onde há várias cenas que propõem que a trama siga em frente sem muita interação dos jogadores (como nas vítimas três e quatro), mas também há várias cenas abertas, onde os personagens dos jogadores são levados pelas suas próprias decisões.
-A principal dificuldade do ponto de vista do Contador de História é como revelar apenas o suficiente no Capítulo 3 e como trocar o humor que ocorre Capítulo 2.
+A principal dificuldade do ponto de vista do Narrador é como revelar apenas o suficiente no Capítulo 3 e como trocar o humor que ocorre Capítulo 2.
 
 ##### TEMAS, HUMORES E MOTIVOS RECORRENTES
 
@@ -52,36 +52,36 @@ O padrão para este cenário é uma cidade americana pequena, cujos detalhes for
 O mesmo acontece com vários lugares e pessoas encontradas durante o cenário, suas descrições são concisas e depende de você contador de história adicionar os detalhes e profundidade. Marcos Lector é um advogado tradicional, ou mais um caçador de jogos? Marta é uma figura velha encolhida, ou uma mulher perfeitamente comum? Os locais encontrados são temperamentais e atmosféricos, ou você vai evidenciar suas banalidades? Você dará descrições abrangentes e detalhadas, ou você deixará aos jogadores o trabalho de imaginar?
 As opções são infinitas e nós não podemos dizer qual delas daria a melhor experiência para você e seu grupo.
 
-#### Notas do Contador de História
+#### Notas do Narrador
 
-Below are some additional notes for the Storyteller:
+Abaixo algumas notas adicionais para o Narrador:
 ```
-■ If you didn’t know already, you will quickly find out that players are inventive: they will go places neither you nor the scenario designer dreamed of. When that happens, you as a Storyteller will have to improvise. This applies particularly to inventive use of Disciplines - Juana could conceivably ask the animals anything, anywhere; Paul could use Premonition anywhere. Always give away something, but not too much.
-■ Where does the coterie sleep during the day? It is assumed that they live in a specially furbished mobile home, but they are of course free to make other arrangements if they wish.
-■ If the coterie knows what is best for them, they will do their utmost to stay off the radar of regular law enforcement. Webber’s protection only goes so far, and all it takes is for the police to start looking for them to make the characters’ unlives very difficult. Should someone encounter a mysterious mobile home in the area and decide to investigate during the day, it is likely game over. The same goes if the characters are hauled in for questioning or held in custody, since they don’t suffer daylight gladly.
-■ The coterie is free to bring any reasonable equipment, Sam isn’t stingy. But she is also adamant that it should hold up to an inspection by law enforcement.
+■ Se você não sabia, descobrirá rapidamente que os jogadores são criativos: eles irão a lugares que nem você, nem o desenvolvedor deste cenário sonharam. Quando isso acontecer, você como um Narrador, deverá improvisar. Isso se aplica particularmente ao uso criativo das Disciplinas - Juana poderia perguntar aos animais, qualquer coisa em qualquer lugar; Paul, poderia usar Premonição em qualquer lugar. Sempre deixe que as suas ações tenham efeito, mas não muito.
+■ Onde a conterie irá dormir durante o dia? Supõe-se que eles morem em uma casa móvel feita sob medida, mas é claro que eles estão livres para fazer os arranjos que desejarem.
+■ Se a conterie sabe o que é melhor para eles, ficarão o máximo fora do radar da policia. A proteção do Webber só vai até aqui, e basta a polícia começar a olhar demais para fazer das não vidas dos personagens, muito difícil. E se alguém encontrar uma misteriosa casa móvel na área e decidir investigar durante o dia, é provavel que o jogo acabe. O mesmo acontece se os personagens forem levados para interrogatório ou mantidos sob custódia, já que eles não sentem prazer com a luz do sol.
+■ A conterie é livre para carregar qualquer equipamento rasoável, Sam não é do tipo pão duro. Mas ela também é inflexível quanto a possibilidade de serem inspecionados pela polícia.
 ```
 
 #### Dramatis Personae
 
-Here follows a brief description of the people involved in the drama. Besides these, the player characters are likely to interact with a number of different individuals, from potential witnesses to grieving families.
+Aqui seguem pequenas descrições das pessoas envolvidas na trama. Além desses os jogadores provavelmente irão interagir com outros indivíduos, como potenciais testemunhas de luto por seus familiares.
 
-##### DETECIVE ROBERT WEBBER, THE POLICE CONTACT
+##### DETETIVE ROBERT WEBBER, O CONTATO NA POLÍCIA
 
-Turned by greed and Blood a long time ago, Detective Webber nowadays works for Mme Stokes (below), simply because he thinks vampires are better suited than cops to take care of any “funny business”: his name for any case that shows traces of the supernatural.
-In this case there aren’t any such traces, but Webber nevertheless recognises the value of vampires staying hidden. As well as catching murderers, of course.
+Transformado em carniçal a muito tempo atrás, o Detetive Webber hoje em dia trabalha para a Sra Stokes, simplesmente por pensar que vampiros são melhores companhias do que policiais para cuidar de "casos engraçados": esse é o nome que ele da a qualquer caso que demonstre algum traço do sobrenatural.
+Nesse caso ele não achou nenhum desses traços, mas mesmo assim Webber reconhece o valor dos vampiros estarem escondidos. Além de caçar caçar assassinos, é claro.
 
-##### SAM STOKES, THE KINDRED SHERIFF
+##### SAM STOKES, A SHERIFE
 
-Madame Sam Stokes is the law among Kindred in these parts, and has been so for a long time. Once a fieldworker, nowadays a shotcaller behind the scenes, Sam’s foremost job is protecting the Masquerade.
-She is the one that has sent the coterie to meet with Detective Webber, and is available to contact if the coterie runs out of ideas or needs strings pulled. (She also makes an appearance in the flashback in Chapter Three.)
+Madame Sam Stokes é a lei entre os vampiros dessas bandas e tem sido a muito tempo. Antes fazia o serviço ela mesma, hoje em dia puxa as cordas dos bastidores, o principal trabalho de Sam é proteger a Máscara.
+É ela que envia a conterie para encontrar o detetive Webber e está disponível para contato se a conterie ficar sem ideias ou precisar ter as rédeas puxadas. (Ela também faz uma aparição no flashback no Capítulo Três.)
 
-##### HARRY LLOYD, THE OBSSED FAN
+##### HARRY LLOYD, O FÃ OBISSECADO
 
-One night three decades ago, a heavily intoxicated Harry Lloyd did something that has come to plague him his entire life. He had long been obsessed with scifi movie mega starlet Eliza Burton, a young actress of considerable fan acclaim. A toxic fan, he took his fixation too far, frequently visiting Eliza’s house without her knowledge and tracing her every movement. This fateful night, after drinking a little too much, Harry broke into Eliza’s home, and when she told him to leave, he lashed out. He murdered her. Or that’s what the papers and the judge said. Harry maintained his innocence — of the murder, at least — and still does to this day.
-He was released from prison a few months ago and was hopeful his crime would have been forgotten. The tabloids ensured this would not be the case, clickbait articles and thinkpiece vlogs creating an Eliza Burton renaissance while portraying Lloyd as a wretched obsessive fan.
-He now lives a miserable existence in his house, ostracized by the community, from which he is often the subject of harassment and vandalism. He would have moved long ago if he had the means.
-The coterie might encounter Harry already in chapter one, but he otherwise shows up in chapter two.
+Uma noite três décadas atras, um muito bêbado Harry Lloyd fez algo que o tem atormentado a vida inteira. Ele há muito tempo é obissecado com uma super atriz de ficção científica, Eliza Burton, uma jovem atriz de consideravel fama. Como fã tóxico, deixou a sua obissão ir longe demais, frequentemente visitando a casa da Eliza sem ela saber e seguindo-a em todos os momentos. Naquela noite fatídica, depois de ter bebido um pouco mais. Harry invadiu a casa da Eliza e quando ela mandou ele embora, ele a atacou. Ele matou Eliza Burton. Ou é isso que os jornais e o juiz disseram. Harry manteve a sua inocencia - de assassino, pelo menos - e mantém isso até hoje.
+Ele foi liberado da prisão a poucos meses atrás e estava esperançoso que seu crime permanecia esquecido. Os tablóides garantiram que ese não fosse o caso, artigos com propagandas chatas e vídeos de influencer voltaram a falar do caso enquanto retratavam Lloyd como um desprezível fã obissessivo.
+Ele agora vive uma existência miserável em sua casa, excluido pela sociedade, na qual é frequentemente objeto de assédio e vandalismo. Ele teria se mudado a muito tempo atras se tivesse dinheiro.
+A conterie pode encontrar Harry ainda no Capítulo Um, mas de qualquer forma ele se apresenta no Capítulo Dois.
 
 ##### MARCUS LECTOR, THE CLOT COLLECTOR
 
