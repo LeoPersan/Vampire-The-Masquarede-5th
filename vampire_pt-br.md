@@ -83,30 +83,30 @@ Ele foi liberado da prisão a poucos meses atrás e estava esperançoso que seu 
 Ele agora vive uma existência miserável em sua casa, excluido pela sociedade, na qual é frequentemente objeto de assédio e vandalismo. Ele teria se mudado a muito tempo atras se tivesse dinheiro.
 A conterie pode encontrar Harry ainda no Capítulo Um, mas de qualquer forma ele se apresenta no Capítulo Dois.
 
-##### MARCUS LECTOR, THE CLOT COLLECTOR
+##### MARCUS LECTOR, O COLETOR DE SANGUE
 
-Marcus Lector is a vampire of means, and spends his time collecting victims with rare and delicate blood that sometimes even yields supernatural effects. He especially savors the blood of serial killers and other remorseless ne’er-do-wells, and is thus on a similar mission as the coterie.
-Including Marcus in the scenario is optional, serving as foil and/or opportunity, depending on the coterie’s actions.
+Marcos lektor é um vampiro abastado e gasta seu tempo coletando vítimas com sangue raro e delicado, que algumas vezes até produzem efeitos sobrenaturais. Ele saboreia especialmente o sangue de assassinos em série e outros maus feitores sem remorso. Esta portanto em uma missão parecida com a da conterie.
+A inclusão de Marcus neste cenário é opcional, servindo como percalço ou oportunidade, dependendo das ações da conterie.
 
-##### THE MONSTER
+##### O MONSTRO
 
-Ever since that fateful night thirty years ago poor Martha has been trying to piece together what happened to her younger sister. They say it was a serial killer, but some things don’t add up. There are details missing, things subdued. Piece by piece, she has reconstructed that night at the hotel and what followed, and a whole world of darkness and pain has been revealed to her. This has caused her mind to irrevocably snap, and out of pain and vengeance she is now looking to recreate the events of thirty years ago in her own, twisted way, before her health gives out.
+Desde a fatídica noite há 30 anos atrás a pobre Marta tenta entender o que aconteceu com a sua irmã mais nova. Eles dizem que foi um assassino em série, mas algumas coisas não encaixam. Faltam detalhes. Peça a peça, ela reconstruiu aquela noite no hotel e o que se seguiu e todo um mundo de trevas e dor que foi revelado para ela. Isso tem consumido Martha, por causa da dor e vingança ela está recriando os eventos de 30 anos atrás à sua maneira distorcida, antes que sua própria saúde se vá.
 
-##### THE COTERIE
+##### A COTERIE
 
-See the appendix for descriptions of the player characters. As with the other descriptions in the book, there is little in the way of physical description here, leaving it to the players to imagine what their characters are like. Some parts of the character sheet relate to systems not in this quickstart - ignore those for now.
+Veja o apêndice Com as descrições dos personagens dos jogadores. Como nas outras descrições deste livro há uma pequena descrição física, deixe os jogadores imaginarem como seus personagens se parecem. Algumas partes da ficha do personagem relacionadas aos sistema não estão neste livro ignore-as por enquanto.
 
-## Chapter 1 – Hook and introduction
+## Cápitulo 1 – Gancho e Introdução
 
-_“Nobody owns life, but anyone who can pick up a frying pan owns death.”_
+_“Ningém é dono da vida, mas quem pegar uma frigideira é dono da morte.”_
 ― William S. Burroughs
 
-Chapter one is the introduction of the scenario, and will give the players plenty of leeway when it comes to actions. Hopefully they will have seen a cop show or two, so as not to be completely lost at how to investigate a murder.
+O primeiro capítulo é a introduçãp deste cenário e irá dar aos jogadores bastante bagagem para os jogadores quando começarem a jogar. Esperamos que eles tenham visto um ou dois filmes/séries policiais, para não ficarem completamente perdidos sobre como invertigar um assassino.
 
-### Rules in this chapter:
-_The rules you will be using in this chapter are basic rolls, willpower and hunger._
+### Regras deste cápitulo:
+_As regras que você usará neste cápitulo são rolagens básicas, força de vontade e fome._
 
-#### Basic rolls
+#### Rolagens básicas
 
 Basic rolls are simple - whenever a character wants to accomplish something that is difficult and the outcome is uncertain, add one character attribute (Strength, Composure, etc) to one character skill³ (Drive, Larceny, etc.), roll that many dice and count all that come up 6 or more: this is the number of successes. If the number of successes equals or exceeds the Difficulty of the task (set by the Storyteller) the character succeeds.
 
