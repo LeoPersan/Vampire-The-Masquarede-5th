@@ -108,25 +108,25 @@ _As regras que você usará neste cápitulo são rolagens básicas, força de vo
 
 #### Rolagens básicas
 
-Basic rolls are simple - whenever a character wants to accomplish something that is difficult and the outcome is uncertain, add one character attribute (Strength, Composure, etc) to one character skill³ (Drive, Larceny, etc.), roll that many dice and count all that come up 6 or more: this is the number of successes. If the number of successes equals or exceeds the Difficulty of the task (set by the Storyteller) the character succeeds.
+Rolagens básicas são simples, sempre que um personagem realizar algo que é difícil e o resultado incerto, some um atriburto do personagem (Força, Compostura, etc) com uma habilidade do personagem (Direção, Furto, etc.), jogue esse número de dados de dez lados e conte todos que resultarem em 6 ou mais: este é o numero de sucessos. Se o número de sucessos for igual ou exceder a dificuldade da tarefa (Definida pelo Narrador) o personagem tem sucesso na ação.
 
-Example: Aileen wishes to distract the attendant so that the rest of the coterie can sneak into the morgue. Aileen’s player rolls six dice (three dice for Aileens Manipulation of 3, and three more for her Subterfuge of 3). The dice come up ‘6, 3, 5, 7, 7, 8’ giving Aileen a total of four successes. Given that the Storyteller earlier set the Difficulty at 3 (a common Difficulty for challenging situations), Aileen succeeds and the attendant is properly distracted.
+Exemplo: Aileen deseja distrair o atendente assim que o resto da Conterie puder se infiltrar no necrotério. O jogador da Aileen rola 6 dados (3 dados para Manipulação 3 e mais 3 para seu subterfugio 3). Os dados resultam em '6, 3, 5, 7, 7, 8' dando para a Aileen um total de 4 sucessos. Considerando que o Narrador anteriormente definiu a Dificuldade em 3 (uma dificuldade comum para situações desafiadoras), Aileen teve sucesso e o atendente é apropriadamente distraido.
 
-#### Criticals
+#### Críticos
 
-Whenever you make a roll and get two or more tens (‘0’ on many tensided dice), you have scored a critical, and get two extra successes!
+Sempre que você faz uma rolagem e pega dois ou mais 10 (0 é considerado 10 em vários dados), você tem um crítico e ganha dois sucessos extras!
 
-#### Willpower
+#### Força de Vontade
 
-Players who are unsatisfied with their rolls may spend a point of their character’s Willpower - a measure of mental fortitude - to re-roll up to three non-hunger dice. Note that this may negate messy criticals and bestial failures (see below). To spend a point of Willpower, simply check one Willpower box. There is no way to regain willpower in this quickstart; what you get you need to make last until the end of the scenario.
+Jogadores que estão insatisfeitos com suas rolagens podem gastar um ponto de Força de Vontade do seu personagem - uma medida da sua força mental - para re-rolar até 3 dados que não sejam de fome. Note que isso pode negar críticos bagunçados e falhas bestiais (veja abaixo). Para gastar um ponto de Força de Vontade, simplesmente marque uma caixa. Não há meios de reganhar força de vontade nesse jogo rápido, que você precisa economiza-los até o fim dessa aventura.
 
-#### Hunger
+#### Fome
 
-Hunger is the eternal curse of all vampires, driving them to hunt for blood to satisfy their bestial urges. As the hunger of a vampire increases, these urges will eventually drive it to inhuman actions. Keep track of each player character’s hunger level with off-color ten sided dice (one dice per level of hunger). It ranges from zero (satisfied) to five (ravenous). All players begin with a hunger level of one. Whenever you make a roll, substitute as many dice for hunger dice as your level of hunger.
+Fome é a eterna maldição de todos os vampiros, levando-os para a caça por sangue para satisfazer suas necessidades bestiais. Como a fome de um vampiro, cresce, essa urgência irá eventualmente leva-lo à atos não humanos. Mantenha anotado o nível de fome de cada personagem com dados de fome de outra cor (um dado para cada nível). A variação vai de 0 (satisfeito) até 5 (faminto). Todos os jogadores começam com um nível de fome de um. Sempre que você rolar um dado, substitua por dados de fome dependendo do seu nível de fome.
 
-_Example: Charles has a hunger level of three, and his player has therefore placed three off-colour dice on the character sheet. When it is time to roll for a task with five dice, Charles’ player substitutes three of those dice for Charles’ hunger dice._
+_Exemplo: Charles tem um nível de fome em 3, esse jogador tem portanto colocado três dados de fome na dua ficha de personagem. Quando é hora de rolar uma tarefa com cinco dados, o jogador do Charles substitui três desses dados por dados de fome._
 
-#### Messy criticals
+#### Críticos bagunçados
 
 Whenever you score a critical and at least one ‘10’ (‘0’) comes from a hunger dice, the character’s vampiric nature (also known as “The Beast”) makes itself known. You get two extra successes, but perform the action as a vampire would: killing someone you were trying to subdue, flashing fangs at someone you were trying to intimidate, feeding from someone you met when canvassing, etc.
 
