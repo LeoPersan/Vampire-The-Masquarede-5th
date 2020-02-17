@@ -126,11 +126,11 @@ Fome é a eterna maldição de todos os vampiros, levando-os para a caça por sa
 
 _Exemplo: Charles tem um nível de fome em 3, esse jogador tem portanto colocado três dados de fome na dua ficha de personagem. Quando é hora de rolar uma tarefa com cinco dados, o jogador do Charles substitui três desses dados por dados de fome._
 
-#### Críticos bagunçados
+#### Críticos Bagunçados
 
-Whenever you score a critical and at least one ‘10’ (‘0’) comes from a hunger dice, the character’s vampiric nature (also known as “The Beast”) makes itself known. You get two extra successes, but perform the action as a vampire would: killing someone you were trying to subdue, flashing fangs at someone you were trying to intimidate, feeding from someone you met when canvassing, etc.
+Sempre que você tiver um crítico e ao menos um dos '10' for de um dado de fome, a natureza vampirica do personagem (também conhecida como "A Besta") aparecerá. Você ganha dois sucessos extras, mas executa a ação como um vampiro: matando alguém que você estava tentando apenas incapacitar/machucar, mostrando as presas para alguém que você estava tentando intimidar, se alimentando de alguém que você estava investigando, etc.
 
-If you fail to come up with something appropriate the roll just fails instead, as the Beast clouds the vampire’s actions.
+Se você não conseguir algo apropriado a rolagem simplesmente falha, pois a Besta obscurece as ações do vampiro.
 
 _Example: when perusing the archives to find out if there have been any similar murders in the past, Paul’s player rolls two tens, one of which is on a hunger die. Engrossing himself in the archives, Paul uncovers plenty of information, but when the archivist checks up on him, Paul’s annoyance at being interrupted results in him breaking the archivist’s arm._
 
