@@ -132,26 +132,26 @@ Sempre que você tiver um crítico e ao menos um dos '10' for de um dado de fome
 
 Se você não conseguir algo apropriado a rolagem simplesmente falha, pois a Besta obscurece as ações do vampiro.
 
-_Example: when perusing the archives to find out if there have been any similar murders in the past, Paul’s player rolls two tens, one of which is on a hunger die. Engrossing himself in the archives, Paul uncovers plenty of information, but when the archivist checks up on him, Paul’s annoyance at being interrupted results in him breaking the archivist’s arm._
+_Exemplo: ao examinar os arquivos procurando se houve outro assassino parecido no passado, o jogador do Paul rola dois 10, sendo um deles um dado de fome. Absorvido pelos arquivos, Paul descobre muitas informações, mas quando o arquivista o observa, o aborrecimento de Paul por ser interrompido resulta em um dos braços do arquivista quebrado._
 
-#### Bestial failure
+#### Falha Bestial
 
-If you fail your roll and at least one hunger die shows a ‘1’, the Hunger interferes with your action and the Beast manifests. You cause some kind of problem for you (and probably the coterie), just like with a messy critical, while also failing spectacularly.
-If you fail to come up with something appropriate, stress increases your Hunger by one instead.
+Se voce falhar na sua rolagem e em ao menos um dos dados de fome aparecer 1, a Fome interefere nas suas ações e a Besta se manifesta. Você causa algum tipo de problema para si mesmo (e provavelmente para a conterie), assim como com um crítico bagunçado, enquanto falha de forma espetacular.
+Se você não conseguir algo apropriado, o estrese aumenta a sua Fome em um.
 
-#### Rouse checks and using the Blood
+#### Teste do Despertar e usando o Sangue
 
-Hunger increases whenever a player fails a Rouse check, and decreases when the vampire feeds. Rouse checks are made whenever the vampire uses its Blood, and every evening when it rises from sleep. To make a Rouse check, simply roll one die, and if isn’t a success, the vampire’s Hunger increases by one.
-Vampires can use the Blood to get an extra die on any roll, and to power their inhuman abilities, called Disciplines (each player character’s Disciplines are described on their character sheet).
+A Fome aumenta sempre que o jogador falhar em uma Teste do Despertar e diminui quando o vampiro se alimenta. Teste do Despertar são feitos sempre que o vampiro usar o Sangue e toda a noite quando ele acorda do sono. Para fazer a Teste do Despertar, simplesmente role um dado e se não for um sucesso, o vampiro aumenta a sua Fome em um.
+Vampiros podem usar o Sangue para pegar um dado extra em qualquer rolagem e para aumentar as suas habilidades não humanas, chamadas Disciplinas (cada Disciplina dos personagens estão descritas em sua ficha).
 
-_Example: Paul wants a little extra on a roll to escape some hunters, and uses the Blood to get an extra die. After the roll, regardless of success or failure rate, the player rolls a single die and increases Paul’s hunger by one if it shows 1-5._
+_Exemplo: Paul quer um uma sorte extra na rolagem para escapar de alguns caçadores e usa o Sangue para pegar um dado extra. Depois da rolagem, independentemente se foi um sucesso ou uma falha, o jogador rola um único dado e aumenta a Fome de Pauk em um se o resultado for de 1 até 5._
 
-_Example: Juana wishes to use Feral Whispers (see Juana’s description in the appendix) to ask the rats in an area to warn the coterie if someone approaches. Feral Whispers has a cost of one Rouse check, so Juana’s player rolls a single die and increases Juana’s hunger by one if it shows 1-5._
+_Exemplo: Juana deseja usar Sussuros de Fera (veja na descrição de Juana no Apendice) para pedir aos ratos que avisem se alguém se aproximar da conterie. Sussurros de Fera tem um custo de um Teste do Despertar, então o jogador da Juana rola um único dado e aumenta a Fome da Juana em um se o resultado for de 1 até 5._
 
-If Hunger is already at 5, the vampire can no longer take voluntary Rouse checks.
-No matter the result of the Rouse check, the desired effect (using a Discipline power, mending damage or adding the extra die) always triggers. The Rouse check only determines if Hunger increases as a result. If it does, add the Hunger dice after the effect resolves.
+Se a Fome ja está em 5, o vampiro não pode fazer o Teste do Despertar.
+Não importa o resultado, o efeito desejado (usando uma Disciplina, curando danos ou adicionando um dado extra) sempre acontece. O Teste do Despertar só determina se a Fome aumenta como um resultado. Se sim, adiciona o dado de Fome depois de resolver o efeito.
 
-#### Feeding
+#### Alimentando
 
 Drinking blood reduces a vampire’s Hunger level by a fixed amount. Draining a human of blood, thereby killing them, is the only way to reduce Hunger to 0. It takes time and care to drink blood properly. The bite of a vampire is euphoric to the victim, due to vampire fangs having a supernatural intoxicating effect as they pierce the blood vessel. If the vampire takes the time to hit a vein or artery correctly and licks the wound closed afterward, the victim may only remember the encounter as a hazy drug trip, an interlude of weird sex, or a delirious fog of drunken intimacy.
 As a general rule, attempting while feeding to preserve the victim’s life, health, and ignorance (all of which of course also preserve the Masquerade) takes longer than simply ripping open an artery and slurping down the red stuff. On the other hand, a victim who fights back slows things down and endangers the Masquerade. A vampire can drain and kill a helpless or otherwise unresisting human in roughly five turns.
