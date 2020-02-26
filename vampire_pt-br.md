@@ -153,24 +153,24 @@ Não importa o resultado, o efeito desejado (usando uma Disciplina, curando dano
 
 #### Alimentando
 
-Drinking blood reduces a vampire’s Hunger level by a fixed amount. Draining a human of blood, thereby killing them, is the only way to reduce Hunger to 0. It takes time and care to drink blood properly. The bite of a vampire is euphoric to the victim, due to vampire fangs having a supernatural intoxicating effect as they pierce the blood vessel. If the vampire takes the time to hit a vein or artery correctly and licks the wound closed afterward, the victim may only remember the encounter as a hazy drug trip, an interlude of weird sex, or a delirious fog of drunken intimacy.
-As a general rule, attempting while feeding to preserve the victim’s life, health, and ignorance (all of which of course also preserve the Masquerade) takes longer than simply ripping open an artery and slurping down the red stuff. On the other hand, a victim who fights back slows things down and endangers the Masquerade. A vampire can drain and kill a helpless or otherwise unresisting human in roughly five turns.
-For the purposes of this quickstart, taking a non-lethal sip from a human reduces Hunger by one or two, completely draining a human reduces it by five, including the last Hunger dice. Draining several animals may also reduce Hunger by one.
+Bebendo sangue reduz o nível de Fome de um vampiro em uma quantidade fixa. Drenar o sangue de um humano, até mata-lo, é o único meio para reduzir a Fome para 0. Leva tempo e cuidado para beber o sangue apropriadamente. A mordida de um vampiro é eufórica para a vítima, devido as presas do vampiro terem um efeito embriagante sobrenatural quando atravessam as veias. Se um vampiro tiver o tempo para acertar a veia ou artéria corretamente e lamber a ferida depois, a vítima pode só se lembrar do encontro como uma nebulosa viagem com drogas, um interlúdio de um sexo estranho, ou uma névoa delirante de uma intimidade bebada.
+Como uma regra geral, tentar preservar a vida, a saúde e a ignorância da vítima enquanto se alimenta (o que preserva a Máscara) leva mais tempo do que simplesmente rasgar uma artéria e sugar a coisa vermelha. Por outro lado, uma vítima que luta, atrapalha e põe em perigo a Máscara. Um vampiro, pode drenar e matar um humano desamparado que não resista em aproximadamente 5 turnos.
+Para a proposta desde Jogo Rápido, assuma que um pequeno gole não letal de um humano reduz a Fome em 1 ou 2, Drenar um humano completamente, reduz em 5, incluindo o último dado de Fome. Drenar vários animais, também reduz a Fome em 1.
 
-### Scene One: Meeting the Contact
+### Cena Um: Encontrando o Contato
 
-This scene throws the characters straight in, and serves as an introduction to the scenario. The players should leave it with a basic outline of what has happened and some idea of what to do next.
-Begin the scene by asking the players where they want to set up the meeting with their contact, and set the scene there. Depending on your players this could be a parking lot, a local dive, a deserted stretch of road, or whatever else occurs to the players. After setting the scene, ask each player in turn for a physical description of their character.
-Detective Robert Webber arrives on time, and is more nervous about meeting what he knows to be the undead than he is about the clandestine nature of the meeting. He gives the player characters an outline of the victims and what the police knows (which is not a lot since he has stalled the investigation on purpose to give the player characters time to take care of business), and is then available for questions. He also gives the coterie a number where they can reach him if they need anything.
+Esta cena coloca os personagens dentro do cenário e serve como uma introdução. Os jogadores devem sair com um esboço do que aconteceu e alguma ideia do que fazer em seguida.
+Comece a cena perguntando para os jogadores onde eles querem a reunião com o contato e defina a cena lá. Dependendo dos seus jogadores ela poderia ser em um estacionamento, um local de mergulho, uma estrada deserta, ou qualquer outro lugar que os jogadores preferirem. Depois defina a cena, pergunte para cada jogador a aparência física do seu personagem.
+O detetive Robert Webber chega no horário e está mais nervoso por saber que a reunião é com não mortos do que a natureza clandestina dela. Ele dá aos personagens dos jogadores um resumo das vítimas e o que a polícia conhece (o que não é muito desde que ele parou a investigação de propósito para dar aos personagens dos jogadores tempo para cuidar do caso), e está disponível para perguntas. Ele também da a conterie um número seu para que eles possam ligar se eles precisarem de algo.
 
-#### The victims
+#### As vítimas
 
-Two victims have been found so far, and the state of the bodies leave no doubt that the murders are connected. Both bodies now reside in the local morgue, awaiting processing.
+Duas vítimas foram encontradas até agora, e o estado dos seus corpos não deixam dúvidas que o os assassinatos estão conectados. Ambos os corpos estão no necrotério local, aguardando processamento.
 
-#### Simon Drummer, college jock
+#### Simon Drummer, atleta do colégio
 
-Victim number one, Simon Drummer, was found four days ago, tucked away in a storm drain. Unfortunately, recent rains have made a mess of the crime scene.
-Simon was a strapping young lad in his early twenties, attending college in another state but home over a hiatus in his studies. He gives the impression of being an “all-American young man” and often poses with the football sweater of his team.
+Vítima número um, Simon Drummer, foi encontrado quatro dias atrás, escondida em um bueiro. Infelizmente, chuvas recenter fizeram uma bagunça na cena do crime.
+Simon era um rapaz jovem e forte com seus vinte e poucos anos, frequentou o colégio em outro estado, mas voltou para casa e parou os estudos. Ele dava a impressão de ser um "típico americano jovem" e frequentemente usava o moletom de futebol do seu time.
 
 #### Carl Thrush, basement cooker
 
