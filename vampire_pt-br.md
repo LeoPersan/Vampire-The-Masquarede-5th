@@ -187,41 +187,43 @@ Abaixo estão alguns exemplos de como eles podem querer prosseguir, mas esteja p
 
 #### O necrotério
 
-Os corpos das vítimas ainda estão no necrotério da cidade, aguardando o processamento. Durante a noite há um único atendente, queimando o óleo da meia noite. os personagens podem acessar invadindo com uma rolagem de Raciocínio + Furto (Dificuldade 3), subornando o atendente com uma rolagem de manipulação + Perçuasão (Dificuldade 3), ou se passando por policial com Manipulação + Subterfúgio (dificuldade 4). Também é possível simplesmente ligar para Sam ou Webber e pedir que eles mexam uns pauzinhos.
+Os corpos das vítimas ainda estão no necrotério da cidade, aguardando o processamento. Durante a noite há um único atendente, queimando o óleo da meia noite. os personagens podem acessar invadindo com uma rolagem de Raciocínio + Furto (Dificuldade 3), subornando o atendente com uma rolagem de manipulação + Persuasão (Dificuldade 3), ou se passando por policial com Manipulação + Subterfúgio (dificuldade 4). Também é possível simplesmente ligar para Sam ou Webber e pedir que eles mexam uns pauzinhos.
 Se os personagens acessarem poderão examinar os corpos eles mesmos usando Inteligência + Medicina. Se muitos personagens estiverem presentes, somente um, com a maior quantidade de dados, faz a rolagem e adiciona um dado para cada outro personagem presente pelo menos um ponto em Medicina. Se eles subjulgarem o atendente, os personagens terão apenas alguma informação básica.
 ("Coisas de CSI", certamente são possíveis, mas os testes levarão semanas)
 
-successes information (you get everything on and below your level of success)
-0 They’re bodies. They have been subjected to significant violence. Best not look too closely.
-1 Both bodies have been savaged with at least a slashing weapon of some sort.
-2 Care has been taken to slash major arteries, and there is much less blood present in the bodies than there should be. In both cases there are significant head traumas from blunt objects as well.
-3 The attacker seems an odd mix of competent and furious. There are no fang marks anywhere on the bodies, but given the Kindred’s ability to close fang marks with saliva, this doesn’t rule out a vampire assailant.
-4 There is little subterfuge here: the murderer seems to have acted out of rage, and given that crimes of passion usually involve people with knowledge of one another these were probably not random victims.
-5+ The victims were likely incapacitated by the blow to the head, and only later slashed. There seems to be no pre-mortem damage, which clashes somewhat with the rage theory.
+| Sucessos | Informações (Você ganha tudo que estiver no seu nível de sucessos e abaixo dele) |
+|----------|----------------------------------------------------------------------------------|
+|0|Eles são corpos. Eles foram submetidos a violência significativa. Melhor não olhar muito perto.|
+|1|Ambos os corpos foram atacados ferozmente com ao menos um tipo de arma de corte.|
+|2|Cortaram com cuidado as artérias principais e há muito menos sangue presente nos corpos do que deveria. Em ambos os casos também há traumas significativos na cabeça de objetos contundentes.|
+|3|O atacante tem uma mistura estranha de competência e fúria. Não há marcas de presas em nenhum lugar dos corpos, mas os Membros têm a capacidade de apagar as marcas de dentes com a saliva, isso não descarta que foi um vampiro.|
+|4|Há um pouco de subterfugio aqui: o assassino parece ter atacado com raiva e dado que crimes passionais envolvem pessoas conhecidas provavelmente estas não eram vítimas aleatórias.|
+|5+|As vítimas pareciam estar incapacitadas pelo golpe na cabeça e sómente depois foram cortadas. Não parecem danos causados antes de morrerem, o que vai um pouco contra a teoria da raiva.|
 
-#### The murder scenes
+#### As cenas dos assassinatos
 
-Unfortunately, there is very little at the two murder scenes. Some blood from the victim can be found on the second scene if one really looks, but this says nothing the coterie doesn’t already know.
+Infelizmente há muito pouco das duas cenas de assassinatos. Algum sangue das vítimas pode ser encontrado na segunda cena se olharem de verdade, mas isso não diz nada que a conterie já não saiba.
 
-_NOTE: Juana can talk to the animals at the two scenes, and they confirm that someone did indeed kill someone here. There was also a lot of blood._
+_NOTA: Juana pode faalr com os animais nas duas cenas e eles confirmam que alguém de fato matou alguém aqui. Também hávia muito sangue_
 
-#### The police precinct
+#### A delegacia de polícia
 
-Going to see the police is unwise. The characters likely have no credible alibis, and little reason to be in the area. Drawing attention to themselves from the authorities is a bad idea (see “Dealing with law enforcement”). There is also nothing the police can tell the coterie that Detective Webber can’t. Should the coterie go there against better judgement, Webber will call them shortly thereafter to berate them.
+Ir ver a polícia é insensato. Os personagens parecem não ter alibis críveis e pouca rasão para estarem nessa área. Chamar atenção para si mesmos das autoridades é uma má ideia (veja "Lidando com a polícia"). também não há nada que a polícia possa contar para a conterie que o detetive Webber não possa. Se a conterie for mesmo assim, Webber irá ligar para eles em breve para repreende-los.
 
-#### The families
+#### As famílias
 
-Interviewing the families of the victims under whatever pretext is a straightforward task, and they are a little confused that the police haven’t done so already.
-Unless approached early in the night, they will be asleep when the characters arrive.
-Simon Drummer’s family is very forthcoming, and best interviewed with a Charisma + Persuasion roll.
+Interrogando as famílias das vítimas sob qualquer pretexto é uma tarefa simples, eles estão um pouco confusos que a polícia ainda não tenha feito.
+A menos que a abordagem aconteça cedo, eles estarão dormindo quando os personagens chegarem.
+A família do Simon Drummer é muito acessível e melhor entrevistada com uma rolagem de Carisma + Persuasão
 
-successes information (you get everything below your level of success as well)
-0 The coterie gets nothing but polite pleasantries.
-1 Simon had no enemies and was wellliked by everyone.
-2 All that slander about him is blatantly false, and will not be repeated.
-3 Several girlfriends have claimed Simon had been “less than a perfect gentleman” with them.
-4 Simon was a good kid, really, it was just that sometimes they made him so angry, you know?
-5+ Simon once confessed he felt pressured to live up to expectations, and thus “could get a little rough with girls, because that’s what they like, and what is demanded of him by the other guys”. His parents made him apologize to every one of his former girlfriends when they discovered this.
+| Sucessos | Informações (Você ganha tudo que estiver no seu nível de sucessos e abaixo dele) |
+|----------|----------------------------------------------------------------------------------|
+|0| A conterie não consegue nada além de gentilezas |
+|1| Simon não tem inimigos e é bem quisto por todo mundo |
+|2| Toda a calúnia sobre ele é falsa e não se repetirão |
+|3| Várias namoradas têm dito que Simon estava "menos cavalheiro" com elas.
+|4| Simon era um bom garoto, de verdade, só tinham alguns momentos que elas o deixavam tão bravo, você entende?|
+|5+| Simon uma vez confessou que se sentia pressionado a corresponder as expectativas e, por isso, "poderia ficar um pouco bravo com as garotas, porque é disso que elas gostam, é isso que os outros caras exigem do Simon". Seus pais o fizeram pedir desculpas para cada uma das suas ex-namoradas quando eles descobriram isso.|
 
 Carl Thrush’s family is less forthcoming, and wants nothing to do with the coterie, even should they claim to be police. They can be forced to talk with Charisma + Intimidation, if the coterie is okay with bullying information out of a traumatized family.
 
