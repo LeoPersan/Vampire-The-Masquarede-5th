@@ -225,52 +225,40 @@ A família do Simon Drummer é muito acessível e melhor entrevistada com uma ro
 |4| Simon era um bom garoto, de verdade, só tinham alguns momentos que elas o deixavam tão bravo, você entende?|
 |5+| Simon uma vez confessou que se sentia pressionado a corresponder as expectativas e, por isso, "poderia ficar um pouco bravo com as garotas, porque é disso que elas gostam, é isso que os outros caras exigem do Simon". Seus pais o fizeram pedir desculpas para cada uma das suas ex-namoradas quando eles descobriram isso.|
 
-Carl Thrush’s family is less forthcoming, and wants nothing to do with the coterie, even should they claim to be police. They can be forced to talk with Charisma + Intimidation, if the coterie is okay with bullying information out of a traumatized family.
+A família do Carl Trush é menos receptiva e não quer nada com a conterie, mesmo se eles disserem que são policiais. Eles podem força-los a falar com Carisma + Intimidação, se a conterie estiver okay em arrancar informações ameaçando uma família traumatizada.
 
-successes information (you get everything on lower levels)
-0 “Whoever you are, fuck off!”
-1 Carl claimed to have plenty of enemies:
-people who wished him ill and often assaulted him. The parents have never seen these people.
-2 Carl was a successful businessman, and paid for room and board at his parents’
-place.
-3 Carl instructed his parents to “get rid of all his stuff if something happened”
-so the parents burnt it all. He’d had a lot of chemistry equipment, a computer and bundles of unsent packages.
-4 Carl’s business involved a lot of chemistry, strange smells, and lots of packages going out. He had all contacts on his computer.
-5+ Carl was deeply paranoid, and lately complained that someone was stalking him “AFK”, whatever that means.
+| Sucessos | Informações (Você ganha tudo que estiver no seu nível de sucessos e abaixo dele) |
+|----------|----------------------------------------------------------------------------------|
+|0| Seja quem for, foda-se!|
+|1| Carl afirmou ter muitos inimigos: pessoas que o queriam mau e frequentemente o agrediam. Os pais nunca viram essas pessoas.|
+|2| Carl era um empresário de sucesso e pagava por um quarto e comida na casa dos pais.|
+|3| Carl instruiu seus pais para "se livrarem de tudo se algo acontecesse", então os pais queimaram tudo. Ele tinha muito equipamento de química, um computador e fardos de encomendas não enviadas.|
+|4| O negócio do Carl envolvia muita química, tinha um cheiro estranho e muitos pacotes que saiam. Ele tinha todos os seus contatos no computador.|
+|5+| Carls estava extremamente paranóico e ultimamente reclamava que alguém o estava perseguindo "AFK", sejá lá o que isso significa.|
 
-#### Asking around
+#### Perguntando em volta
 
-Canvassing the neighborhood is done with Resolve +
-Investigation or Streetwise, and the result varies with what the characters are asking about. Allow anyone who spends significant time asking around to roll, and
-“purchase” appropriate clues for the players (they don’t automatically get everything on lower levels).
+Perguntar para os vizinhos é resolvido com Determinação + Investigação ou Manha e o resultado varia o que os personagens estão perguntando. Permita qualquer um usar um tempo significativo perguntando para rolagem e adquira pistas apropriadas para os jogadores (eles não receberão tudo automaticamente nos nívels mais baixos).
 
-successes information tidbits 0 You get nothing!
-1 • Suspicious people have been sneaking about lately (dubious).
-- The police around here are irreparably corrupt (true, as the characters should know).
-- Simon’s trollops like it rough, everyone knows that (not true).
-- Carl is a basement creep who deserved what he got (not true).
-
-2 • The folks around here are pious and righteous (dubious).
-
-- A lot of people around here are suspicious of authority, and like to take matters into their own hands (true).
-- The postmaster always carries a heavy load to and from Carl’s place.
-- Large packages go in, small packages come out (true).
-
-3 • Harry Lloyd is a known stalker and murderer who served his time. He lives around here, and people have given him the what-for many times, but he is protected by the police (true).
-
-- People here are suspicious and superstitious, prone to vicious gossip and mob mentality (true).
-- “There are monsters out there.
-They need to be hunted down without mercy.” (true, but not in the way they think).
-
-4 • A suit and his goons have been poking around lately. They drive two fancy cars and look dangerous (true, this is Marcus Lector, see below).
-
-- There are generally no homeless people around here (not true), but people claim to have seen a vagrant several times at night (true, this is the victim in scene three).
-- People in this region take an active stance when it comes to making sure the community is safe from monsters, and the authorities turn a blind eye, if they even know (true).
-
-5+ • Simon has severely beaten several girls from school over the years (true).
-
-- Carl was the “crack king” of the county and sold to everyone, including minors (true).
-- The fancy suit is staying at a fancy motel off the ‘56 (true, this is where Marcus Lector sleeps during the day).
+| Sucessos | Boatos (Com 0 você não ganha nada) |
+|----------|------------------------------------|
+|1| • Pessoas suspeitas tem aparecido ultimamente (duvidosa).|
+| |- A polícia daqui é irreparavelmente corrupita (verdade, como os personagens devem saber).|
+| |- As prostitutas do Simon gostavam de apanhar, todo mundo sabe disso (mentira).|
+| |- Carls é um rato de porão que merece o que aconteceu (mentira).|
+|2| • As pessoas daqui são caridosas e justas (duvidosa).|
+| |- Muitas pessoas daqui estão suspeitando das autoridades, eles gostam de resolver do seu próprio jeito (verdade).|
+| |- O carteiro sempre carregava caixas pesadas para e da casa do Carl (quase).|
+| |- Grandes caixas iam para lá e caixas pequenas saiam (verdade).|
+|3| • Harry Lloyd é um perseguidor conhecido e um assassino que pagou o que devia. Ele vive por aqui e as pessoas já lhe mandaram embora muitas vezes, mas ele é protegido pela polícia (verdade).|
+| |- As pessoas daqui são desconfiadas e superticiosas, inclinadas a fofocas maldosas e pensamentos canalhas (verdade).|
+| |- “Existem monstros lá fora. Eles precisam ser caçados sem misericórdia”. (verdade, mas não do jeito que elas pensam).|
+|4| • Um homem bem vestido e seus capangas têm interferido por aqui ultimamente.Eles dirigem dois carros caros e parecem perigosos (verdade, este éMarcus Lector, veja abaixo).|
+| |- Geralmente não há sem tetos por aqui (mentira), mas as pessoas têm visto um vagabundo muitas vezes a noite (verdade é a vítima da cena três).|
+| |- As pessoas da região tomam uma postura ativa quando é para livrar a cidade de monstros e as autoridades fazem vista grossa, se é que sabem (verdade).|
+|5+| • Simon espancou sériamente várias garotas da escola por anos (true).|
+| |- Carl era o "Rei do Crack" da cidade vendia para todo mundo, até menores de idade (verdade).|
+| |- O homem chique de terno está ficando no motel chique perto da rodovia 56 (verdade, é onde Marcus Lector dorme durante o dia).|
 
 #### Hitting the books
 
