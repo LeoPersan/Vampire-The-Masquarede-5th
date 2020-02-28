@@ -174,24 +174,22 @@ Simon era um rapaz jovem e forte com seus vinte e poucos anos, frequentou o col�
 
 #### Carl Thrush, basement cooker
 
-Victim number two, Carl Thrush, was found two days ago in a copse of trees, splayed on a rock and emptied of blood, which is why Webber immediately contacted Sam. The site has since been cleared but little else of note was found.
-Carl was a man in his mid-thirties, who still lived in his parents’ basement and had no registered place of work. Despite the popular images of such individuals he was quite a looker. A roll of Intelligence + Finance
-(Difficulty 3) reveals that he was living larger than he should be able to afford, even if supported financially by his parents.
-Proceed to scene two as soon as the coterie has asked their questions and are prepared to move on with their investigation.
+Vítima núemro dois, Carl Trush, foi encontrado dois dias atrás no meio de um bosque, espalhado em uma pedra sem sangue, foi por isso que Webber ligou imediatamente para Sam. O local estava limpo, mas foram encontradas poucas pistas.
+Carl era um homem com seus trinta e poucos anos, vivia no porão da casa dos seus pais e não tinha emprego registrado. Ao contrário do que se possa imaginar ele era muito bonito.
+Uma rolagem de Inteligência + Finanças (Dificuldade 3) revelará que ele vivia muito melhor do que poderia, mesmo se fosse ajudado financeiramente pelos pais.
+Continue para a cena dois assim que a conterie tenha feito as suas perguntas e estejam preparados para seguir com a sua investigação.
 
-### Scene Two: Nightly Investigations
+### Cena Dois: Investigação Noturna
 
-This is an open-ended scene where the player characters are free to investigate the murders as they see fit, and should be fertile ground for skill tests. Proceed to the next scene when the players have run out of ideas and/or when play loses steam.
-Give the player characters a moment to discuss their approach and decide who will do what. It’s up to them if they wish to proceed as a group or split up to cover more ground. If the latter, balance the scenes so that each team has roughly the same amount of time in the spotlight. Ask each player in turn what they want their character to do during the first night.
-Below are some examples of leads they might want to pursue, but be prepared to improvise as well if the players come up with something unexpected.
+Está é uma cena aberta, onde os personagens dos jogadores estão livres para investigar os assassinatos como acharem melhor, deve ser um terreno fértil para testes de habilidades. Continue para a próxima cena quando os jogadores estiverem explorado todas as ideias e/ou quando o jogo perder o rítmo.
+De aos personagens dos jogadores um momento para discutir sua abordagem e decidir quem irá fazer o que. Depende deles se desejam continuar como um grupo ou irão se dividir para cobrir mais terreno. No último caso, equilibre as cenas para que cada time tenha aproximadamente o mesmo tempo no centro das atenções. Pergunte a cada jogador no turno o que eles querem que seus personagens façam durante a primeira noite.
+Abaixo estão alguns exemplos de como eles podem querer prosseguir, mas esteja preparado para improvisar também se os jogadores apresentarem com algo diferente.
 
-#### The morgue
+#### O necrotério
 
-The bodies of the victims are still in the county morgue, awaiting processing. At night, a single attendant is there, burning the midnight oil. The characters can gain access by breaking in with a roll of Wits +
-Larceny (Difficulty 3), bribing the attendant with a roll of Manipulation + Persuasion (Difficulty 3), or impersonating law enforcement with Manipulation +
-Subterfuge (Difficulty 4). It is also possible to simply call Sam or Webber and ask them to pull strings.
-If the characters gain access they can examine the bodies themselves using Intelligence + Medicine. If several characters are present, only the one with the highest dice pool rolls, and adds one die for each other character present with at least one dot in Medicine. If they subverted the attendant, the characters will be provided some basic information.
-(“CSI-stuff” is certainly possible, but will take weeks)
+Os corpos das vítimas ainda estão no necrotério da cidade, aguardando o processamento. Durante a noite há um único atendente, queimando o óleo da meia noite. os personagens podem acessar invadindo com uma rolagem de Raciocínio + Furto (Dificuldade 3), subornando o atendente com uma rolagem de manipulação + Perçuasão (Dificuldade 3), ou se passando por policial com Manipulação + Subterfúgio (dificuldade 4). Também é possível simplesmente ligar para Sam ou Webber e pedir que eles mexam uns pauzinhos.
+Se os personagens acessarem poderão examinar os corpos eles mesmos usando Inteligência + Medicina. Se muitos personagens estiverem presentes, somente um, com a maior quantidade de dados, faz a rolagem e adiciona um dado para cada outro personagem presente pelo menos um ponto em Medicina. Se eles subjulgarem o atendente, os personagens terão apenas alguma informação básica.
+("Coisas de CSI", certamente são possíveis, mas os testes levarão semanas)
 
 successes information (you get everything on and below your level of success)
 0 They’re bodies. They have been subjected to significant violence. Best not look too closely.
