@@ -49,7 +49,7 @@ Os temas de “O(s) Monstro(s)” são  os monstros que somos, descrevendo em ti
 #### Definindo o Cenário
 
 O padrão para este cenário é uma cidade americana pequena, cujos detalhes foram deixados propositalmente vagos, para permitir colocá-la onde quiser.
-O mesmo acontece com vários lugares e pessoas encontradas durante o cenário, suas descrições são concisas e depende de você contador de história adicionar os detalhes e profundidade. Marcos Lector é um advogado tradicional, ou mais um caçador de jogos? Marta é uma figura velha encolhida, ou uma mulher perfeitamente comum? Os locais encontrados são temperamentais e atmosféricos, ou você vai evidenciar suas banalidades? Você dará descrições abrangentes e detalhadas, ou você deixará aos jogadores o trabalho de imaginar?
+O mesmo acontece com vários lugares e pessoas encontradas durante o cenário, suas descrições são concisas e depende de você contador de história adicionar os detalhes e profundidade. Marcus Lector é um advogado tradicional, ou mais um caçador de jogos? Marta é uma figura velha encolhida, ou uma mulher perfeitamente comum? Os locais encontrados são temperamentais e atmosféricos, ou você vai evidenciar suas banalidades? Você dará descrições abrangentes e detalhadas, ou você deixará aos jogadores o trabalho de imaginar?
 As opções são infinitas e nós não podemos dizer qual delas daria a melhor experiência para você e seu grupo.
 
 #### Notas do Narrador
@@ -85,7 +85,7 @@ A conterie pode encontrar Harry ainda no Capítulo Um, mas de qualquer forma ele
 
 ##### MARCUS LECTOR, O COLETOR DE SANGUE
 
-Marcos lektor é um vampiro abastado e gasta seu tempo coletando vítimas com sangue raro e delicado, que algumas vezes até produzem efeitos sobrenaturais. Ele saboreia especialmente o sangue de assassinos em série e outros maus feitores sem remorso. Esta portanto em uma missão parecida com a da conterie.
+Marcus Lector é um vampiro abastado e gasta seu tempo coletando vítimas com sangue raro e delicado, que algumas vezes até produzem efeitos sobrenaturais. Ele saboreia especialmente o sangue de assassinos em série e outros maus feitores sem remorso. Esta portanto em uma missão parecida com a da conterie.
 A inclusão de Marcus neste cenário é opcional, servindo como percalço ou oportunidade, dependendo das ações da conterie.
 
 ##### O MONSTRO
@@ -253,40 +253,38 @@ Perguntar para os vizinhos é resolvido com Determinação + Investigação ou M
 |3| • Harry Lloyd é um perseguidor conhecido e um assassino que pagou o que devia. Ele vive por aqui e as pessoas já lhe mandaram embora muitas vezes, mas ele é protegido pela polícia (verdade).|
 | |- As pessoas daqui são desconfiadas e superticiosas, inclinadas a fofocas maldosas e pensamentos canalhas (verdade).|
 | |- “Existem monstros lá fora. Eles precisam ser caçados sem misericórdia”. (verdade, mas não do jeito que elas pensam).|
-|4| • Um homem bem vestido e seus capangas têm interferido por aqui ultimamente.Eles dirigem dois carros caros e parecem perigosos (verdade, este éMarcus Lector, veja abaixo).|
+|4| • Um homem bem vestido e seus capangas têm interferido por aqui ultimamente.Eles dirigem dois carros caros e parecem perigosos (verdade, este é Marcus Lector, veja abaixo).|
 | |- Geralmente não há sem tetos por aqui (mentira), mas as pessoas têm visto um vagabundo muitas vezes a noite (verdade é a vítima da cena três).|
 | |- As pessoas da região tomam uma postura ativa quando é para livrar a cidade de monstros e as autoridades fazem vista grossa, se é que sabem (verdade).|
 |5+| • Simon espancou sériamente várias garotas da escola por anos (true).|
 | |- Carl era o "Rei do Crack" da cidade vendia para todo mundo, até menores de idade (verdade).|
 | |- O homem chique de terno está ficando no motel chique perto da rodovia 56 (verdade, é onde Marcus Lector dorme durante o dia).|
 
-#### Hitting the books
+#### Atacando os livros
 
 ```
-■ Searching the archives for similar crimes in the area yields nothing unless the character scores four or more successes on a Resolve + Investigation roll. In this case they discover that something did happen in a neighboring region thirty years ago, but this has been carefully expunged from all records (See Chapter Three - the characters are chasing their own tail here).
-■ Looking for possible suspects also uses Resolve + Investigation, and reveals the existence and address of Harry Lloyd with three successes.
-■ Seeking the history of the region gives nothing substantial.
+■ Procurando nos arquivos de polícia por crimes similares na área não irá render nada a menos que o personagem alcance 4 ou mais sucessos em uma rolagem de Determinação + Investigação. Nesse case eles discobrem que algo aconteceu na vizinhança trinta anos atras, mas isso tem sido cuidadosamente apagado dos registros (Veja o Capítulo Três - os personagens estão seguindo seus próprios rabos aqui).
+■ Investigando possíveis suspeitos também usa Determinação + Investigação revela a existencia e endereço do Harry Lloyd com 3 sucessos.
+■ Procurando a história da região não resulta em nada relevante.
 ```
 
-#### Encounter: Harry Lloyd
+#### Encontro: Harry Lloyd
 
-If the players uncover Harry Lloyds existence, they might decide to pay him a visit (otherwise he features heavily in the next chapter). If they ask Webber about it he says that he doesn’t keep track of “every ex-con who committed a crime back when Reagan was president”.
-Harry has nothing to offer except to stress his innocence, and with a Wits + Insight (Difficulty 3)
-one gets the impression that he is telling the truth.
-Intimidation yields nothing but a sobbing wretch of a man who begs for mercy.
+Se os jogadores decobrirem a existencia do harry lloyd, eles podem decidir paga-lo uma visita (de outra forma ele será apresentado no próximo capítulo). Se eles perguntarem para o Webber sobre isso ele dirá que ele não pode acompanhar a "todo ex presidiário que cometeu um crime desde que o Reagan era presidente".
+Harry não tem nada a oferecer exceto enfatisar a sua inocência e com Raciocínio + Insite (Dificuldade 3) alguém fica com a impressão de que ele está falando a verdade.
+intimidação não tem resultado além de um choro desesperado de um homem implorando por misericórdia.
 
-#### Encounter: Marcus Lector
+#### Encontro: Marcus Lector
 
-At some point the players should be contacted by one of Marcus’ goons, who says his boss wants to meet. It is also possible that the coterie goes out to confront Marcus after having heard the talk on the town;
-regardless the scene plays out the same. The goon will reveal that Marcus is “of the Blood” and an “interested party”, nothing more. If the coterie refuses, Marcus will instead seek them out, and be significantly less polite. He can also contact the coterie through Sam, if necessary. If asked, Sam is cautious when it comes to Marcus and offers no advice.
-Marcus knows of the coterie’s mission through the grapevine, and has a proposition for them, which he makes after small talk at the motel where he stays. A Wits + Awareness roll (Difficulty 4) reveals that Marcus’ goons are significantly armed, and equipped with tasers. They have also brought a disguised ambulance and restraints. Marcus collects Dyscracias or “Clots”:
-rare formations of human blood that have mystical properties. He claims that the Clots of serial killers are the best, as they “take away all the guilt, all the anguish” from “that most pleasurable activity”. If the coterie finds the murderer, Marcus wants him or her, alive, and is offering the coterie a major Boon^4 as payment. Should they find but not give him the murderer, he will be “most displeased”, but does not elaborate.
+Em algum momento os jogadores deveriam ser contactados por algum capanga do Marcus, que diz que o seu chefe quer uma reunião. Também é possível que a conteria vá confrontar Marcus depois de ouvirem as conversas pela cidade.
+Independentemente a cena será a mesma. o capanga irá revelar que Marcus é "do Sangue" e uma "parte interessada", nada mais. Se a conterie recusar, Marcus irá procurá-los e será significativamente menos político. Ele também pode contactar a conterie através de Sam, se necessário. Se perguntada, Sam é cautelosa com relação a marcus e não oferece conselho.
+Marcus sabe que a missão da conterie através dos contatos e tem uma proposta para eles, qual ele fará depois de uma pequena conversa no motel em que ele fica. Uma rolagem de Raciocínio + Conciência (Dificuldade 4) revela que os capangas do Marcus estão bem armados e equipados com armas de choque. Eles também trouxeram uma ambulãncia disfarçada e algemas. Marcus coleta discrasias ou "coágulos" raros formados em sangue humano que têm propriedades místicas. Ele acredita que o sangue de assassinos em série são os melhores, como eles "pegam sempre toda a culpa e angústia" da "nais agradável atividade". Se a conterie encontrar o assassino, Marcus o quer vivo e oferece a conterie um grande benefício como pagamento. Se eles encontrarem o assassino mas não o entregarem, ele ficará "descontente", mas não dará mais detalhes.
 
-### SceneThree: The third victim
+### Cena Três: A terceira vítima
 
-Scene Three begins when Detective Webber calls the coterie to inform them that there has been a third murder, and this time the players can be first on the scene. This is likely to occur in the beginning of the second or third night, depending on how long the players have been investigating. However, at the end of the night also works, as this will make the beginning of the next chapter a race against the sun as well.
-Webber directs them to a long-abandoned apartment building a ways away from the town proper, and asks that the characters contact him with instructions when they are done at the scene (he expects to be told to either clean it up, call it in or do nothing). He will not join them.
-On the third floor there is an obvious squat, where someone has been living for quite some time. There is rudimentary scavenged furniture, bedding, and drug paraphernalia. In one of the rooms lies the corpse of a vagrant, similarly savaged as the earlier victims, but visibly less so. As usual, ask each player in turn what they want to do in the scene.
+A Cena Três começa quando o detetive Webber liga para a conterie informando que houve um terceiro assassinato e dessa vez eles podem ser os primeiros a chegar na cena. Irá ocorrer no começo da segunda ou terceira noite, dependendo de quanto tempo os jogadores passarem investigando. Dependendo até no fim da primeira noite também funciona, isso tornará o começo do próximo capítulo uma corrida contra o sol.
+Webber os direciona a um apartamente abandonado há muito tempo construido longe da cidade e pede para que os personagens liguem com instruções quando tiverem terminado na cena (ele espera receber instruções para limpar, ligar ou não fazer nada). Ele não irá junto.
+No terceiro andar há alguém claramente morando, onde alguém estava morando escondido há algum tempo. Há uma mobília velha descartada, roupa de cama e equipamentos para uso de drogas. Em um dos quartos o corpo de um mendingo, igualmente violentado como as vítimas anteriores, mas visivelmente menos machucado. Como de costume, pergunte a cada jogador o que eles querem fazer nessa cena.
 
 #### Investigating the corpse
 
