@@ -254,7 +254,7 @@ Perguntar para os vizinhos é resolvido com Determinação + Investigação ou M
 | |- As pessoas daqui são desconfiadas e superticiosas, inclinadas a fofocas maldosas e pensamentos canalhas (verdade).|
 | |- “Existem monstros lá fora. Eles precisam ser caçados sem misericórdia”. (verdade, mas não do jeito que elas pensam).|
 |4| • Um homem bem vestido e seus capangas têm interferido por aqui ultimamente.Eles dirigem dois carros caros e parecem perigosos (verdade, este é Marcus Lector, veja abaixo).|
-| |- Geralmente não há sem tetos por aqui (mentira), mas as pessoas têm visto um vagabundo muitas vezes a noite (verdade é a vítima da cena três).|
+| |- Geralmente não há sem tetos por aqui (mentira), mas as pessoas têm visto uma mendiga muitas vezes a noite (verdade é a vítima da cena três).|
 | |- As pessoas da região tomam uma postura ativa quando é para livrar a cidade de monstros e as autoridades fazem vista grossa, se é que sabem (verdade).|
 |5+| • Simon espancou sériamente várias garotas da escola por anos (true).|
 | |- Carl era o "Rei do Crack" da cidade vendia para todo mundo, até menores de idade (verdade).|
@@ -271,52 +271,51 @@ Perguntar para os vizinhos é resolvido com Determinação + Investigação ou M
 #### Encontro: Harry Lloyd
 
 Se os jogadores decobrirem a existencia do harry lloyd, eles podem decidir paga-lo uma visita (de outra forma ele será apresentado no próximo capítulo). Se eles perguntarem para o Webber sobre isso ele dirá que ele não pode acompanhar a "todo ex presidiário que cometeu um crime desde que o Reagan era presidente".
-Harry não tem nada a oferecer exceto enfatisar a sua inocência e com Raciocínio + Insite (Dificuldade 3) alguém fica com a impressão de que ele está falando a verdade.
+Harry não tem nada a oferecer exceto enfatisar a sua inocência e com Raciocínio + Insight (Dificuldade 3) alguém fica com a impressão de que ele está falando a verdade.
 intimidação não tem resultado além de um choro desesperado de um homem implorando por misericórdia.
 
 #### Encontro: Marcus Lector
 
 Em algum momento os jogadores deveriam ser contactados por algum capanga do Marcus, que diz que o seu chefe quer uma reunião. Também é possível que a conteria vá confrontar Marcus depois de ouvirem as conversas pela cidade.
 Independentemente a cena será a mesma. o capanga irá revelar que Marcus é "do Sangue" e uma "parte interessada", nada mais. Se a conterie recusar, Marcus irá procurá-los e será significativamente menos político. Ele também pode contactar a conterie através de Sam, se necessário. Se perguntada, Sam é cautelosa com relação a marcus e não oferece conselho.
-Marcus sabe que a missão da conterie através dos contatos e tem uma proposta para eles, qual ele fará depois de uma pequena conversa no motel em que ele fica. Uma rolagem de Raciocínio + Conciência (Dificuldade 4) revela que os capangas do Marcus estão bem armados e equipados com armas de choque. Eles também trouxeram uma ambulãncia disfarçada e algemas. Marcus coleta discrasias ou "coágulos" raros formados em sangue humano que têm propriedades místicas. Ele acredita que o sangue de assassinos em série são os melhores, como eles "pegam sempre toda a culpa e angústia" da "nais agradável atividade". Se a conterie encontrar o assassino, Marcus o quer vivo e oferece a conterie um grande benefício como pagamento. Se eles encontrarem o assassino mas não o entregarem, ele ficará "descontente", mas não dará mais detalhes.
+Marcus sabe que a missão da conterie através dos contatos e tem uma proposta para eles, qual ele fará depois de uma pequena conversa no motel em que ele fica. Uma rolagem de Raciocínio + Insight (Dificuldade 4) revela que os capangas do Marcus estão bem armados e equipados com armas de choque. Eles também trouxeram uma ambulãncia disfarçada e algemas. Marcus coleta discrasias ou "coágulos" raros formados em sangue humano que têm propriedades místicas. Ele acredita que o sangue de assassinos em série são os melhores, como eles "pegam sempre toda a culpa e angústia" da "nais agradável atividade". Se a conterie encontrar o assassino, Marcus o quer vivo e oferece a conterie um grande benefício como pagamento. Se eles encontrarem o assassino mas não o entregarem, ele ficará "descontente", mas não dará mais detalhes.
 
 ### Cena Três: A terceira vítima
 
 A Cena Três começa quando o detetive Webber liga para a conterie informando que houve um terceiro assassinato e dessa vez eles podem ser os primeiros a chegar na cena. Irá ocorrer no começo da segunda ou terceira noite, dependendo de quanto tempo os jogadores passarem investigando. Dependendo até no fim da primeira noite também funciona, isso tornará o começo do próximo capítulo uma corrida contra o sol.
 Webber os direciona a um apartamente abandonado há muito tempo construido longe da cidade e pede para que os personagens liguem com instruções quando tiverem terminado na cena (ele espera receber instruções para limpar, ligar ou não fazer nada). Ele não irá junto.
-No terceiro andar há alguém claramente morando, onde alguém estava morando escondido há algum tempo. Há uma mobília velha descartada, roupa de cama e equipamentos para uso de drogas. Em um dos quartos o corpo de um mendingo, igualmente violentado como as vítimas anteriores, mas visivelmente menos machucado. Como de costume, pergunte a cada jogador o que eles querem fazer nessa cena.
+No terceiro andar há um quarto, onde alguém estava morando escondido há algum tempo. Há uma mobília velha descartada, roupa de cama e equipamentos para uso de drogas. Em um dos quartos o corpo de uma 
+ga, igualmente cortada como as vítimas anteriores, mas visivelmente menos. Como de costume, pergunte a cada jogador o que eles querem fazer nessa cena.
 
-#### Investigating the corpse
+#### Investigando o corpo
 
-The victim has not been drained of blood, evident from the fact that she lies in a huge pool of it. The youthful face is untouched, and Composure + Investigation (Difficulty 2) reveals that there is significantly less slashing than on the previous victims, as if the murderer suddenly stopped. Three successes reveals that the cuts seem more methodical.
+A vítima não teve o sangue drenado, evidente pelo fato que ela repousa em uma grande piscina do mesmo. A face jovem não foi tocada e uma rolagem de Compostura + Investigação (Dificuldade 2) revela que há muito menos cortes do que nas vítimas anteriores, como se o assassino tivesse parado de repente. Três sucessos revelam que o os cortes parecem mais metódicos.
 
-#### Investigating the squat
+#### Investigando o quarto
 
-Looking through the vagrant’s modest belongings reveals nothing except that she was a drug user, poor, and probably miserable.
-Three successes on a Composure + Investigation roll reveals unsent letters tucked away, where the writer begs to be taken back by her family.
+Olhando através dos pertences da mendiga não revela nada exceto que ela era usuária de drogas, pobre e provavelmente infeliz.
+Três sucessos em uma rolagem de Compostura + Investigação revela cartas não enviadas encondidas, onde ela implorava para ser levada de volta para sua família.
 
-#### Investigating the house
+#### Investigando a casa
 
-The house is largely empty, but a Wits + Awareness (Difficulty 3)
-roll reveals a second squat behind some loose boards. This looks more temporary, with a decent sleeping bag, stove and MRE:s. It also contains a small box with locks of hair (trophies from Simon and Carl, but this might not be directly evident). The room is not sunproofed, and tape and blu tac remnants on the walls suggest something was torn down in a hurry.
+A casa está em grande parte vazia, mas uma rolagem de Raciocínio + Insight (Dificuldade 3) revela um segundo quarto atrás de algumas tábuas soltas. Esse parece mais temporário, com um saco de dormir decente, fogão e MREs. Também contém uma caixa pequena com mechas de cabelo (troféus do Simon e Carl, mas isso não é tçao evidente). O quarto não é a prova de sol e restos de uma massa de colar nas paredes sugerem que algo foi arrancado com pressa.
 
-_The murderer has stayed here for a period of time, and if they understand this, the findings should convince the coterie that the murderer isn’t a vampire._
+_O assassino ficou aqui por um tempo e se eles entenderem isso as evidências devem convencer a conterie que o assassino não é um vampiro._
 
-#### Tracking the murderer
+#### Seguindo o assassino
 
-Summoning e.g. a dog and tracking the murderer is a brilliant idea, and leads the coterie to the room described above. Have the character roll only for the use of the Discipline, and don’t make a separate roll for tracking. Before the coterie can track the murderer in the opposite direction, the dog bays, and Chapter Two begins.
+Chamar pro exemplo um cachorro para seguir o assassino é uma ideia brilhante e leva a conterie para o quarto descrito ácima. O personagem tem que rolar somente para o uso da Disciplina e não fazer uma rolagem separada para seguir. Antes a conterie pode seguir o assassino na direção contrária, os cães latem e o Capítulo Dois começa.
 
-#### Keeping watch/idling
+#### Vigiando/Parados
 
-Even if no character purposely keeps watch (as they have little incentive to do so) allow any character who idles or merely assists another character a Wits + Awareness roll (Difficulty 3) to notice several shapes moving in the darkness outside the building.
-Proceed to Act Two.
+Mesmo se nenhum personagem vigie propositadamente (por que eles tenham pouco incentivo de fazê-lo) permita algum personagem que ficar parado ou apenas assistindo outro personagem uma rolagem de Raciocínio + Insight (Dificuldade 3) para notar muitas formas se movendo no escuro fora do prédio. Continue para o Capítulo Dois.
 
-_NOTE: Roll for any watching/idling characters last, as their action effectively moves play to the next act._
+_NOTA: Role por último para algum personagem assistindo, pois as suas ações movem efetivamente para o próximo Capítulo._
 
-After each character has had the chance to do something, proceed to Chapter Two.
+Depois cada personagem tiver a chance de fazer algo, continue para o Capítulo Dois.
 
-## Chapter 2 – Divergence
-_“An eye for an eye, a tooth for a tooth. a burn for a burn. a life for a life. that’s how all this got started. and that’s how it’s going to end.”_
+## Capítulo 2 - Divergencia
+_“Olho por olho, dente por dente, fogo por fogo, vida por vida. Foi assim que tudo começou e é assim que tudo irá terminar.”_
 ― Jenny Han, Fire with Fire
 
 In this chapter the heat is turned up, quite literally, and the scenario shifts from low-key investigation to more frantic action. After the build-up of the first chapter it should also highlight and bring to the fore the theme of the scenario.
