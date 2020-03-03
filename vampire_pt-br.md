@@ -96,15 +96,15 @@ Desde a fatídica noite há 30 anos atrás a pobre Marta tenta entender o que ac
 
 Veja o apêndice Com as descrições dos personagens dos jogadores. Como nas outras descrições deste livro há uma pequena descrição física, deixe os jogadores imaginarem como seus personagens se parecem. Algumas partes da ficha do personagem relacionadas aos sistema não estão neste livro ignore-as por enquanto.
 
-## Cápitulo 1 – Gancho e Introdução
+## Capítulo 1 – Gancho e Introdução
 
 _“Ningém é dono da vida, mas quem pegar uma frigideira é dono da morte.”_
 ― William S. Burroughs
 
 O primeiro capítulo é a introduçãp deste cenário e irá dar aos jogadores bastante bagagem para os jogadores quando começarem a jogar. Esperamos que eles tenham visto um ou dois filmes/séries policiais, para não ficarem completamente perdidos sobre como invertigar um assassino.
 
-### Regras deste cápitulo:
-_As regras que você usará neste cápitulo são rolagens básicas, força de vontade e fome._
+### Regras deste Capítulo:
+_As regras que você usará neste capítulo são rolagens básicas, força de vontade e fome._
 
 #### Rolagens básicas
 
@@ -335,43 +335,44 @@ _Exemplo: Nenhum ataque acerta Paul, Aileen é atacada poe seu alvo e o atacante
 
 #### Conjunto de Dados
 
-O conjunto de dados que cada participante usa em um turno do conflito é chamado de seu Conjunto de Dados. Em uma luta física, o Conjunto de Dados pode ser por exemplo Força + Briga ou Compostura + Armas de Fogo. Os personagens algumas vezes mudam o conjunto durante o conflito, por exemplo se trocarem de arma.
+O Conjunto de Dados que cada participante usa em um turno do conflito é chamado de seu Conjunto de Dados. Em uma luta física, o Conjunto de Dados pode ser por exemplo Força + Briga ou Compostura + Armas de Fogo. Os personagens algumas vezes mudam o conjunto durante o conflito, por exemplo se trocarem de arma.
 
 _Exemplo: Aileen rola Compostura + Armas de Fogo contra Destreza + Atletismo do seu alvo, dois dados são reduzidos do Conjunto de Dados do alvo, enauqnto Charles começa com  Força + Briga versus Destreza + Armas Brancas do seu oponente. Se sobreviver, o atacante da Aileen rola Força + Briga contra Destreza + Atletismo da Aileen. O Narrador diz a Paul que ele encontra uma proteção sem precisar rolas, já que ele não foi atacado neste turno._
 
-Both the attacker and defender roll their pools simultaneously in a basic conflict. The side that scores the most successes wins their turn of that conflict. The winner subtracts the loser’s successes from their total and applies the remainder as damage (see below).
-If the conflict is one-sided, such as when the defender is trying to avoid getting shot, only the attacker can inflict damage. If both participants are able to cause harm to their opponent, the conflict is two-sided, with both sides counting as attackers. In this case, the actions of both parties are merged into a single conflict roll.
-A tie results in both parties inflicting one point of damage on the other (remember to add weapon damage if applicable, see below).
+Ambos o atacante e o defensor rolam seus conjuntos de dados simultaneamente em um conflito básico. O sado que alcançar mais sucessos vence o turno do conflito. O vencedor subtrai os sucessos do perdedor do seu total e aplica o restante como dano (veja abaixo).
+Se o conflito é de Unilateral, como quando o defensor está rolando para evitar um tiro, somente o atacante pode infligir dano. Se ambos os participantes podem causar preuíjo ao seu oponente, o conflito é de Bilateral, com ambos os lados contando como atacantes. Nesse caso, as ações de ambas as partes são unidos em uma única Rolagem de Conflito.
+Um empate resulta em ambas as partes do conflito inflingindo um ponto de dano no outro (lembre de adicionar o dano da arma se aplicável, veja abaixo).
 
-#### Ranged weapons
+#### Armas a distância
 
-Ranged combat is resolved as a contest, usually vs the defender’s Dexterity + Athletics. In cases where two combatants are attacking each other at range, you can resolve it as a two-sided Firearms conflict (see above). This assumes that the subjects have access to limited cover, such as a car or the corner of a building. A character with no available cover subtracts two dice from their defense pool.
+Combate a distância é resolvido como uma disputa, normalemnte contra a Destreza + Atletismo do defensor. Nos casos onde os dois combatentes estão se atacando a distância, você pode resolver como um conflito Bilateral de Armas de Fogo (veja acima). Esto assume que os sujeitos têm uma cobertura limitada, como um carro ou o canto de uma construção. Um personagem sem cobertura retira dois dados da sua Rolagem de Defesa.
 
-#### Dodging
+#### Esquiva
 
-When engaged in a Brawl or Melee conflict, the defender can always opt to use their Dexterity + Athletics instead of a combat skill to defend. If they do, they inflict no damage on the opponent, no matter the margin, if they win.
+Em um conflito com os punhos ou armas de curta distãncia, o defensor sempre pode optar por usar sua Destreza + Atletismo em vez da habilidade de combate para defender. Se eles fizerem, eles não infligem dano no oponente, não importa a diferença de resultados, se ganharem.
 
-#### Multiple opponents
+#### Vários oponentes
 
-In a conflict where teaming up makes sense, a character facing multiple opponents loses one die from their defence pool for each successive opponent that targets them. In order to attack multiple foes as a single action, a character must split their attack dice pool.
+Em um conflito onde a "união faz a força", um personagem que está contra vários oponentes perde um dado de defesa para cada oponente a mais que atacá-lo. Em ordem atacar vários inimigos como uma ação simples, um personagem deve dividir seus dados de ataque.
 
-#### Damage
+#### Dano
 
-In a physical conflict, damage targets Health. The winner of each contest applies their success margin to the loser’s relevant tracker as damage. Sometimes, circumstances mandate extra damage after the contest:
+Em um conflito físico, o dano ataca os Pontos de Vida, o vencedor de cada Rolagem aplica suas margens de sucessos como um dano relevante na nos Pontos de Vida do perdedor. Em algumas circunstâncias há um dano extra:
 
 ```
-■ If the winner used a weapon, they add the relevant weapon’s damage rating to the total damage (for the purposes of this quickstart, the storyteller assigns weapon damage - a knife might be +1, a rifle +3).
+■ Se o vencedor usu uma arma, eles adicionam o dano propocional referente à arma ao dano total (para o propósito desse Jogo Rápido, o Narrador atribui um dano á arma, uma faca pode ser +1, um rifle +3).
 ```
 
-_Example: Firing her pistol, Aileen gets two more successes than the opponent. Adding the pistol’s weapon rating of +2, the target suffers 4 points of damage._
+_Exemplo: Atirando com a sua pistola, Aileen tem dois sucessos a mais do que o oponente. Addicionando o o dano da pistola, que é +2, o alvo sofre 4 pontos de dano._
 
-#### Types of damage
+#### Tipos de dano
 
+No Sistema Narrativo, o dano tem dois tipos
 In the Storyteller System, damage comes in two types:
 
 ```
-■ Superficial damage: bruises, sprains, grazes, and the like but not immediately lifethreatening injury. Fists, kicks, and non-lethal weapons, such as tasers, do Superficial damage to humans. Standard weapons, such as hand guns and blades, do Superficial damage to vampires.
-■ Aggravated damage: broken bones, wounds, and lifethreatening injuries. Sharp and piercing weapons do Aggravated damage to humans. Fire, sunlight, and the claws and teeth of some supernatural creatures do Aggravated damage to vampires.
+■ Dano superficial: contusões, torções, arranhos e o que não gerar risco de vida imediatamente. Socos, chutes e armas não letais, como teasers, causam danos superficiais à humanos. Armas padrão, como pistolas, revolveres, espadas causam danos superficiais em vampiros.
+■ Dano Agravado: ossos quebrados, feridas e tudo que cause risco de vida. Armas que perfurantes e cortantes, causam danos agravados em humanos. Fogo, luz do sol, garras e dentes de criaturas sobrenaturais causam danos agravados em vampiros
 ```
 
 #### Tracking damage
