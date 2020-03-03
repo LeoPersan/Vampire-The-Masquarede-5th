@@ -284,8 +284,7 @@ Marcus sabe que a missão da conterie através dos contatos e tem uma proposta p
 
 A Cena Três começa quando o detetive Webber liga para a conterie informando que houve um terceiro assassinato e dessa vez eles podem ser os primeiros a chegar na cena. Irá ocorrer no começo da segunda ou terceira noite, dependendo de quanto tempo os jogadores passarem investigando. Dependendo até no fim da primeira noite também funciona, isso tornará o começo do próximo capítulo uma corrida contra o sol.
 Webber os direciona a um apartamente abandonado há muito tempo construido longe da cidade e pede para que os personagens liguem com instruções quando tiverem terminado na cena (ele espera receber instruções para limpar, ligar ou não fazer nada). Ele não irá junto.
-No terceiro andar há um quarto, onde alguém estava morando escondido há algum tempo. Há uma mobília velha descartada, roupa de cama e equipamentos para uso de drogas. Em um dos quartos o corpo de uma 
-ga, igualmente cortada como as vítimas anteriores, mas visivelmente menos. Como de costume, pergunte a cada jogador o que eles querem fazer nessa cena.
+No terceiro andar há um quarto, onde alguém estava morando escondido há algum tempo. Há uma mobília velha descartada, roupa de cama e equipamentos para uso de drogas. Em um dos quartos o corpo de uma mendiga, igualmente cortada como as vítimas anteriores, mas visivelmente menos. Como de costume, pergunte a cada jogador o que eles querem fazer nessa cena.
 
 #### Investigando o corpo
 
@@ -314,31 +313,31 @@ _NOTA: Role por último para algum personagem assistindo, pois as suas ações m
 
 Depois cada personagem tiver a chance de fazer algo, continue para o Capítulo Dois.
 
-## Capítulo 2 - Divergencia
+## Capítulo 2 - Divergência
 _“Olho por olho, dente por dente, fogo por fogo, vida por vida. Foi assim que tudo começou e é assim que tudo irá terminar.”_
 ― Jenny Han, Fire with Fire
 
-In this chapter the heat is turned up, quite literally, and the scenario shifts from low-key investigation to more frantic action. After the build-up of the first chapter it should also highlight and bring to the fore the theme of the scenario.
+Neste capítulo o calor aumenta, literalmente, e o cenário troca de de uma sutil investigação para uma ação mais frenética. Após a elaboração do primeiro capítulo ele também deve destacar e trazer a tona o tema desta aventura.
 
-### Rules in this Chapter
+### Regras deste Capítulo
 
-The rules you will be using in this chapter are basic (physical) conflic t and damage.
+As regras que você usará neste capítulo são de conflito (físico) básico e dano.
 
-#### Basic conflict
+#### Conflito básico
 
-Conflict happens in a flurry of blows, rhetorical or physical.
-When each participant in the conflict has acted once, or declined to act, that defines a turn. Turns take as much time as the narrative indicates they should. Thus, one roll does not necessarily represent one swing of a baseball bat, unless the Storyteller says it does.
-At the start of every turn of the conflict, each player declares their intent, i.e. what they are trying to achieve. In a physical conflict this can be anything from trying to tackle the driver of an escaping motorcycle to simply taking cover.
+Conflito acontece em uma agitação de golpes, sejam com palavras ou com os punhos.
+Quando cada participante do conflito agiu uma vez, ou passou a sua vez, é definido um turno. turnos tomam muito tempo pois a narrativa indica como eles deveriam ser. portanto, uma rolagem não representa necessáriamente uma tacada de basebol, a menos que o Narrador diga que é.
+No começo de cada turno do conflito, cada jogador declara sua intenção, ex.:oq ue eles estão tentando alcançar. Em um conflito físico  pode ser qualquer coisa desde de tentar acertar o motorista de uma moto que estava escapando ou simplesmente se esconder.
 
-_Example: Going left to right around the table, the Storyteller asks the players to describe their intended actions. Paul wants to dive for cover, Aileen shoots, and Charles desperately tries to fend off an attacker without killing it. Once all players have decided on their courses of action, the Storyteller makes the same decisions for all SPC:s and tells the troupe which dice pools to build. The players then roll to attempt it._
+_Exemplo: Indo da direita para a esquerda em volta da mesa, o Narrador pede apra os jogadores descreverem as suas intenções de ação. Paul quer pular para um esconderijo, Aileen atirar e Charles tenta desesperadamente se defender de um atacante sem matá-lo. Cada um dos jogadores decide seu curso de ação, o Narrador faz o mesmo decidinso para todos os NPCs e diz a conterie quantos dadosdeverão jogar. O jogador então rola para tentar._
 
-_Example: No one attacks Paul, Aileen is charged by her target, and Charles’ attacker keeps attacking._
+_Exemplo: Nenhum ataque acerta Paul, Aileen é atacada poe seu alvo e o atacante de Charles continua atacando_
 
-#### Conflict Pools
+#### Conjunto de Dados
 
-The dice pool each participant uses in a conflict turn is called their conflict pool. In a physical fight, the conflict pool might for example be Strength + Brawl or Composure + Firearms. Characters sometimes change pools during a conflict, for instance if they change weapons.
+O conjunto de dados que cada participante usa em um turno do conflito é chamado de seu Conjunto de Dados. Em uma luta física, o Conjunto de Dados pode ser por exemplo Força + Briga ou Compostura + Armas de Fogo. Os personagens algumas vezes mudam o conjunto durante o conflito, por exemplo se trocarem de arma.
 
-_Example: Aileen rolls Composure + Firearms against the target’s Dexterity + Athletics, two dice deducted from the target’s pool since he breaks cover to charge, while Charles engages in a Strength + Brawl vs Dexterity + Melee contest with his opponent. If alive, Aileen’s attacker rolls Strength + Brawl vs Aileen’s Dexterity + Athletics. The Storyteller tells Paul that he finds cover without needing to roll, since he was not attacked this turn._
+_Exemplo: Aileen rola Compostura + Armas de Fogo contra Destreza + Atletismo do seu alvo, dois dados são reduzidos do Conjunto de Dados do alvo, enauqnto Charles começa com  Força + Briga versus Destreza + Armas Brancas do seu oponente. Se sobreviver, o atacante da Aileen rola Força + Briga contra Destreza + Atletismo da Aileen. O Narrador diz a Paul que ele encontra uma proteção sem precisar rolas, já que ele não foi atacado neste turno._
 
 Both the attacker and defender roll their pools simultaneously in a basic conflict. The side that scores the most successes wins their turn of that conflict. The winner subtracts the loser’s successes from their total and applies the remainder as damage (see below).
 If the conflict is one-sided, such as when the defender is trying to avoid getting shot, only the attacker can inflict damage. If both participants are able to cause harm to their opponent, the conflict is two-sided, with both sides counting as attackers. In this case, the actions of both parties are merged into a single conflict roll.
