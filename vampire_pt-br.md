@@ -371,34 +371,34 @@ No Sistema Narrativo, o dano tem dois tipos
 In the Storyteller System, damage comes in two types:
 
 ```
-■ Dano superficial: contusões, torções, arranhos e o que não gerar risco de vida imediatamente. Socos, chutes e armas não letais, como teasers, causam danos superficiais à humanos. Armas padrão, como pistolas, revolveres, espadas causam danos superficiais em vampiros.
+■ Dano Superficial: contusões, torções, arranhos e o que não gerar risco de vida imediatamente. Socos, chutes e armas não letais, como teasers, causam danos superficiais à humanos. Armas padrão, como pistolas, revolveres, espadas causam danos superficiais em vampiros.
 ■ Dano Agravado: ossos quebrados, feridas e tudo que cause risco de vida. Armas que perfurantes e cortantes, causam danos agravados em humanos. Fogo, luz do sol, garras e dentes de criaturas sobrenaturais causam danos agravados em vampiros
 ```
 
-#### Tracking damage
+#### Calculando danos
 
-Characters apply their damage to the Health track. Unless otherwise stated, divide Superficial damage in half (rounded up) before applying it to the tracker. Mark each level of Superficial damage on the character sheet by making a “/” in one box on the tracker. Mark Aggravated damage on the character sheet by making an “X” on the tracker.
+Personagens aplicam dano aos Pontos de Vida. À menos que esteja indicado o contrário, divida o Dano Superficial pela metade (arredondando para cima) antes de aplicá-lo nos Pontos de Vida. Marque cada nível de Dano Superficial na ficha do personagem marcando um "/" em uma caixa dos Pontos de Vida. Marque Dano Agravado na planilha do personagem marcando um "X" nos Pontos de Vida.
 
-#### Impairment
+#### Prejuízo
 
-Once the character sustains enough damage of either type, or a mix, to fill their tracker, they are Impaired. Impaired characters lose two dice from all relevant dice pools: Physical pools and any other pools the Storyteller believe to be similarly weakened. At the Storyteller’s discretion, mortals are incapacitated at this stage. For every level of damage of either kind, Superficial or Aggravated, a character takes while Impaired, convert one previously sustained Superficial damage to Aggravated damage on a one-forone basis. Turn the “/” to a “X” on the track. Remember to halve Superficial damage as usual before converting it.
+Uma vez que o personagem aguenta dano suficiente de qualquer tipo, ou uma mistura deles, em todos os seus Pontos de vida, eles estão Prejudicados. Personagens Prejudicados perdem dois dados de todas as suas Rolagens de Dados: Rolagens Físicas e outras Rolagens que o Narrados acreditar serem similarmente enfraquecidas. A critério do Narrador, mortais estão incapacitados nesse estágio. Para todos os níveis de Dano Agravado ou Superficial, um personagem recebe enquanto Prejudicado, tem convertido o que anteriormente era um Dano Superfícial em Dano Agravado um por um. Troque os "/" por "X" nos Pontos de Vida. Lembre-se de dividir por dois o Dano Superficial normalmente antes de converte-lo.
 
-#### The end of the tracker
+#### O fim dos Pontos de Vida
 
-A character with their tracker completely filled with Aggravated damage is out of the conflict, possibly permanently. In a physical combat, they are comatose or dead (if mortal), or fall into torpor (if a vampire; in this quickstart this effectively takes the character out of the scenario).
+Um personagem com seus Pontos de Vida completamente preenchidos com Dano Agravado está fora de combate, provavelmente permanentemente. Em um combate físico, eles estão em coma ou mortos (se forem mortais), ou entram em torpor (se um vampiro; nesse Jogo Rápido isto efetivamente tira o personagem do jogo)
 
-#### Healing Damage
+#### Curando Dano
 
-Vampires can heal one Superficial damage level per turn by making a Rouse check.
+Vampiros podem curar um nível de Dano Superficial por turno fazendo um Teste do Despertar.
 
-### Scene One: In our midst!
+### Cena Um: Entre nós!
 
-This scene is a pure action scene, with the players trying to escape from a posse of “monster hunters”, who think they are hunting a serial killer, and believe most human evil to be of supernatural origin. What complicates matters is the fact that simply killing the attackers probably isn’t compatible with keeping a low profile and preserving the Masquerade. Note that it is quite possible that this scene ends quickly, if the characters bolt first thing; especially if they spot the hunters early.
-Unbeknownst to the coterie, another party has been frantically searching for the killer, but have up to this point been confined to psyching themselves up in a garage. This night, the murderer was spotted and the posse springs into action. Unfortunately for them, they are no smooth operators, and by the time they get there, the coterie is there instead.
-If the coterie spotted the posse in the previous chapter, give them a minute or so to react before the hunters reach them. If not, the hunters storm them right on, having already seen them.
-Just like before, and as described in the rules above, ask each player what their characters do, and then perform roughly three turns of combat, during which smart players will likely try to escape. If things are still not concluded, add one or two extra turns, assuming the action is entertaining. After that, if the coterie is still trying to escape, let them escape, and if they are holding out against the posse, the posse retreats.
+Essa cena é pura ação, com os jogadores tentando escapar de um bando de "caçadores de monstros", eles pensam que estão caçando um assassino em série e acreditam que a maioria dos males humanos têm origem sobrenatural. O que complica as coisas é o fato de que simplesmente matar os atacantes provavelmente não é compatível com manter-se fora do radar e preservar a Máscara. Veja que é bastante possível que esta cena termine rapidamente, se os personagens fugiram logo de cara, especialmente se eles notarem os caçadores cedo.
+Sem a conterie saber, outro grupo tem procurado fanaticamente pelo assassino, mas até nesse ponto estavam confinados pensando em suas garagens. Esta noite, o assassino foi visto e o pelotão entrou em ação. Infelizmente para ele, que não são muito silenciosos e pelo tempo para chegarem vão encontrar a conterie em vez do assassino.
+Se a conterie notar o bando no capítulo passado dê a eles um minuto para reagir antes dos caçadores alcança-los. Se não os caçadores vão atacá-los já os tendo visto.
+Assim como antes e a descrição das regras acima, pergunte para cada jogador o que seus personagens farão, então narre aproximadamente três turnos de combate, durante o qual jogadores inteligentes provavelmente tentarão escapar. Se as coisas continuarem sem conclusão adiciona turnos extras, assumindo que a ação está entretendo. Depois disso, se a conterie ainda tentar escapar, deixe que escapem e se eles resistirem contra o bando, o bando recua.
 
-#### The Posse
+#### O Bando
 
 You as Storyteller will have to determine the size of the posse depending on the difficulty level you want, but roughly six or so combatants is a good number. Nevermind individual stats for the posse members, instead use a fixed number of dice for all their rolls. If you as a Storyteller want to roll less dice, you can also just assign the opposing NPC:s half their pool (rounded up) in successes, and let only the players roll dice.
 Roughly half of the posse are war veterans, have six dice in their pools and are armed with AR-15:s (+1 dice to the attack pool; damage +3) or shotguns (damage +4). They have six boxes in their health tracker. The rest have four dice, are armed with baseball bats, golf clubs and similar weapons (damage +2), and have five boxes in their health trackers. If you really want to spice things up, have one or two armed with molotov cocktails5 (damage +0, but aggravated versus vampires).
