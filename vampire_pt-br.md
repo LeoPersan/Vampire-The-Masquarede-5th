@@ -400,19 +400,18 @@ Assim como antes e a descrição das regras acima, pergunte para cada jogador o 
 
 #### O Bando
 
-You as Storyteller will have to determine the size of the posse depending on the difficulty level you want, but roughly six or so combatants is a good number. Nevermind individual stats for the posse members, instead use a fixed number of dice for all their rolls. If you as a Storyteller want to roll less dice, you can also just assign the opposing NPC:s half their pool (rounded up) in successes, and let only the players roll dice.
-Roughly half of the posse are war veterans, have six dice in their pools and are armed with AR-15:s (+1 dice to the attack pool; damage +3) or shotguns (damage +4). They have six boxes in their health tracker. The rest have four dice, are armed with baseball bats, golf clubs and similar weapons (damage +2), and have five boxes in their health trackers. If you really want to spice things up, have one or two armed with molotov cocktails5 (damage +0, but aggravated versus vampires).
+Você como um Narrador tem que determinar o tamanho do bando dependendo do nível de dificuldade que você quer, mas aproximadamente seis combatentes ou menos é um bom núemro. Não pense nos status individuais dos membros do bando, em vez disso use números fixos de dados para todas as suas rolagens. Se você como Narrador quer rolar menos dado, você pode também atribuir aos NPCs metáde dos seus dados (arredondados para cima) em sucessos assim apenas os jogadores rolam dados.
+Aproximadamente metade do bando são veteranos de guerra, têm seis dados nas suas rolagens e estão armados com AR-15s (+1 dado de ataque; +3 de dano) ou shoguns (+4 de dano). Eles têm seis caixas em seus Pontos de Vida. O reste têm quatro dados, estão armados com tacos de beisebol, golfe e armas similares (+2 de dano), eles têm cinco caixas em seus Pontos de Vida. Se você realmente quiser apimentar as coisas, tem um ou dois armados com coquiteis molotov (+0 de dano, mas é Dano Agravado contra vampiros).
 
-What if the coterie massacres the posse? Well, if they hide the bodies and no-one lives to tell, nothing happens before the end of the scenario. However, this amount of missing people will sooner or later cause a stir, and the coterie is, possibly quite literally, cooked when it reaches Sam’s ears. If they kill only some of the posse and the rest escape, the manhunt is quickly on as the posse members spin their tales.
-Sam will have no option but to pull the characters out.
-The Storyteller should be merciless when it comes to the consequences of solving one’s problems with naked violence and wholesale butchery.
+E se a conterie massacrar o bando? Bem, se eles esconderem seus corpos e nenhum sobreviver para contar, nada acontece antes do desse jogo. No entanto, essa quantidade de pessoas desaparecidas irá mais cedo ou mais tarde irá causar uma agitação, e a conterie está, provavelmente, literalmente frita quando Sam descobrir. Se eles matarem alguns do bando e o resto escapar a caçada será rápida quando os sobreviventes espalharem suas histórias.
+Sam não terá outra opção se nao tirar os personagems de circulação.
+O Narrador deve ser implacável quanto as consequências vierem resolvendo um problema com violência crua, atacando como um açougueiro.
 
-If the scene took place early in the night, start the next scene as soon as the players have had an hour or so to catch their breath. If it took place late in the night, the next scene starts as soon as the players wake up the next evening.
+Se a cena ocorreu no início da noite, inicie a próxima cena logo que os jogadores tenham uma hora ou menos para tomar fôlego. Se acontecer no final da noite, a próxima cena começa logo que os jogadores acordarem na noite seguinte.
 
-### Scene Two: Scapegoat
+### Cena Dois: Bode expiatório
 
-Depending on the timing, this scene takes part either early or late in the night. It is open-ended, and requires the players to make some hard choices. It begins when Detective Webber calls with an emerging opportunity. The third victim has sprung the community into action, and they already named their monster:
-Harry Lloyd. They are now on their way to mete out some mob “justice”. Webber thinks this is excellent and suggests that the murders be pinned on Harry.
+Dependendo da hora essa cena acontece cedo ou tarde da noite. Ela é aberta e requer que os jogadores façam algumas escolhas. Começando quando o detetive Webber liga para falar de uma emergência. A terceira vítima colocou a comunidade em ação, eles já têm o nome do seu monstro: Harry lloyd. Eles estão agora no limite de fazer "justiça" com as próprias mãos. Webber acha que é excelente e sugere que os assassinatos sejam apontados para o Harry.
 All the coterie needs to do is make sure Harry doesn’t survive his encounter with the crowd; dead men get no counsel and present no alibis, and it will be easy for Webber to wrap everything up later.
 Give the coterie a moment to discuss the idea and what to do. Ideally, the coterie should have a thing or two to say on the morals of the situation. If they decide to do nothing, have Sam call them and give them a piece of her mind: this time, it isn’t optional.
 If they still decide to do nothing, Harry is placed in a coma by the mob, and they will be in trouble with Sam later; disobedience among Kindred carries a stiff, often fatal, price. Proceed to scene three.
