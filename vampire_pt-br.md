@@ -108,7 +108,7 @@ _As regras que você usará neste capítulo são rolagens básicas, força de vo
 
 #### Rolagens básicas
 
-Rolagens básicas são simples, sempre que um personagem realizar algo que é difícil e o resultado incerto, some um atriburto do personagem (Força, Compostura, etc) com uma habilidade do personagem (Direção, Furto, etc.), jogue esse número de dados de dez lados e conte todos que resultarem em 6 ou mais: este é o numero de sucessos. Se o número de sucessos for igual ou exceder a dificuldade da tarefa (Definida pelo Narrador) o personagem tem sucesso na ação.
+Rolagens básicas são simples, sempre que um personagem realizar algo que é difícil e o resultado incerto, some um atriburto do personagem (Força, Compose, etc) com uma habilidade do personagem (Direção, Furto, etc.), jogue esse número de dados de dez lados e conte todos que resultarem em 6 ou mais: este é o numero de sucessos. Se o número de sucessos for igual ou exceder a dificuldade da tarefa (Definida pelo Narrador) o personagem tem sucesso na ação.
 
 Exemplo: Aileen deseja distrair o atendente assim que o resto da Conterie puder se infiltrar no necrotério. O jogador da Aileen rola 6 dados (3 dados para Manipulação 3 e mais 3 para seu subterfugio 3). Os dados resultam em '6, 3, 5, 7, 7, 8' dando para a Aileen um total de 4 sucessos. Considerando que o Narrador anteriormente definiu a Dificuldade em 3 (uma dificuldade comum para situações desafiadoras), Aileen teve sucesso e o atendente é apropriadamente distraido.
 
@@ -187,7 +187,7 @@ Abaixo estão alguns exemplos de como eles podem querer prosseguir, mas esteja p
 
 #### O necrotério
 
-Os corpos das vítimas ainda estão no necrotério da cidade, aguardando o processamento. Durante a noite há um único atendente, queimando o óleo da meia noite. os personagens podem acessar invadindo com uma rolagem de Raciocínio + Furto (Dificuldade 3), subornando o atendente com uma rolagem de manipulação + Persuasão (Dificuldade 3), ou se passando por policial com Manipulação + Subterfúgio (dificuldade 4). Também é possível simplesmente ligar para Sam ou Webber e pedir que eles mexam uns pauzinhos.
+Os corpos das vítimas ainda estão no necrotério da cidade, aguardando o processamento. Durante a noite há um único atendente, queimando o óleo da meia noite. os personagens podem acessar invadindo com uma rolagem de Raciocínio + Furto (Dificuldade 3), subornando o atendente com uma rolagem de Manipulação + Persuasão (Dificuldade 3), ou se passando por policial com Manipulação + Subterfúgio (dificuldade 4). Também é possível simplesmente ligar para Sam ou Webber e pedir que eles mexam uns pauzinhos.
 Se os personagens acessarem poderão examinar os corpos eles mesmos usando Inteligência + Medicina. Se muitos personagens estiverem presentes, somente um, com a maior quantidade de dados, faz a rolagem e adiciona um dado para cada outro personagem presente pelo menos um ponto em Medicina. Se eles subjulgarem o atendente, os personagens terão apenas alguma informação básica.
 ("Coisas de CSI", certamente são possíveis, mas os testes levarão semanas)
 
@@ -238,7 +238,7 @@ A família do Carl Trush é menos receptiva e não quer nada com a conterie, mes
 
 #### Perguntando em volta
 
-Perguntar para os vizinhos é resolvido com Determinação + Investigação ou Manha e o resultado varia o que os personagens estão perguntando. Permita qualquer um usar um tempo significativo perguntando para rolagem e adquira pistas apropriadas para os jogadores (eles não receberão tudo automaticamente nos nívels mais baixos).
+Perguntar para os vizinhos é resolvido com Percepção + Investigação ou Manha e o resultado varia o que os personagens estão perguntando. Permita qualquer um usar um tempo significativo perguntando para rolagem e adquira pistas apropriadas para os jogadores (eles não receberão tudo automaticamente nos nívels mais baixos).
 
 | Sucessos | Boatos (Com 0 você não ganha nada) |
 |----------|------------------------------------|
@@ -263,22 +263,22 @@ Perguntar para os vizinhos é resolvido com Determinação + Investigação ou M
 #### Atacando os livros
 
 ```
-■ Procurando nos arquivos de polícia por crimes similares na área não irá render nada a menos que o personagem alcance 4 ou mais sucessos em uma rolagem de Determinação + Investigação. Nesse case eles discobrem que algo aconteceu na vizinhança trinta anos atras, mas isso tem sido cuidadosamente apagado dos registros (Veja o Capítulo Três - os personagens estão seguindo seus próprios rabos aqui).
-■ Investigando possíveis suspeitos também usa Determinação + Investigação revela a existencia e endereço do Harry Lloyd com 3 sucessos.
+■ Procurando nos arquivos de polícia por crimes similares na área não irá render nada a menos que o personagem alcance 4 ou mais sucessos em uma rolagem de Percepção + Investigação. Nesse case eles discobrem que algo aconteceu na vizinhança trinta anos atras, mas isso tem sido cuidadosamente apagado dos registros (Veja o Capítulo Três - os personagens estão seguindo seus próprios rabos aqui).
+■ Investigando possíveis suspeitos também usa Percepção + Investigação revela a existencia e endereço do Harry Lloyd com 3 sucessos.
 ■ Procurando a história da região não resulta em nada relevante.
 ```
 
 #### Encontro: Harry Lloyd
 
 Se os jogadores decobrirem a existencia do harry lloyd, eles podem decidir paga-lo uma visita (de outra forma ele será apresentado no próximo capítulo). Se eles perguntarem para o Webber sobre isso ele dirá que ele não pode acompanhar a "todo ex presidiário que cometeu um crime desde que o Reagan era presidente".
-Harry não tem nada a oferecer exceto enfatisar a sua inocência e com Raciocínio + Insight (Dificuldade 3) alguém fica com a impressão de que ele está falando a verdade.
+Harry não tem nada a oferecer exceto enfatisar a sua inocência e com Raciocínio + Instinto (Dificuldade 3) alguém fica com a impressão de que ele está falando a verdade.
 intimidação não tem resultado além de um choro desesperado de um homem implorando por misericórdia.
 
 #### Encontro: Marcus Lector
 
 Em algum momento os jogadores deveriam ser contactados por algum capanga do Marcus, que diz que o seu chefe quer uma reunião. Também é possível que a conteria vá confrontar Marcus depois de ouvirem as conversas pela cidade.
 Independentemente a cena será a mesma. o capanga irá revelar que Marcus é "do Sangue" e uma "parte interessada", nada mais. Se a conterie recusar, Marcus irá procurá-los e será significativamente menos político. Ele também pode contactar a conterie através de Sam, se necessário. Se perguntada, Sam é cautelosa com relação a marcus e não oferece conselho.
-Marcus sabe que a missão da conterie através dos contatos e tem uma proposta para eles, qual ele fará depois de uma pequena conversa no motel em que ele fica. Uma rolagem de Raciocínio + Insight (Dificuldade 4) revela que os capangas do Marcus estão bem armados e equipados com armas de choque. Eles também trouxeram uma ambulãncia disfarçada e algemas. Marcus coleta discrasias ou "coágulos" raros formados em sangue humano que têm propriedades místicas. Ele acredita que o sangue de assassinos em série são os melhores, como eles "pegam sempre toda a culpa e angústia" da "nais agradável atividade". Se a conterie encontrar o assassino, Marcus o quer vivo e oferece a conterie um grande benefício como pagamento. Se eles encontrarem o assassino mas não o entregarem, ele ficará "descontente", mas não dará mais detalhes.
+Marcus sabe que a missão da conterie através dos contatos e tem uma proposta para eles, qual ele fará depois de uma pequena conversa no motel em que ele fica. Uma rolagem de Raciocínio + Instinto (Dificuldade 4) revela que os capangas do Marcus estão bem armados e equipados com armas de choque. Eles também trouxeram uma ambulãncia disfarçada e algemas. Marcus coleta discrasias ou "coágulos" raros formados em sangue humano que têm propriedades místicas. Ele acredita que o sangue de assassinos em série são os melhores, como eles "pegam sempre toda a culpa e angústia" da "nais agradável atividade". Se a conterie encontrar o assassino, Marcus o quer vivo e oferece a conterie um grande benefício como pagamento. Se eles encontrarem o assassino mas não o entregarem, ele ficará "descontente", mas não dará mais detalhes.
 
 ### Cena Três: A terceira vítima
 
@@ -288,16 +288,16 @@ No terceiro andar há um quarto, onde alguém estava morando escondido há algum
 
 #### Investigando o corpo
 
-A vítima não teve o sangue drenado, evidente pelo fato que ela repousa em uma grande piscina do mesmo. A face jovem não foi tocada e uma rolagem de Compostura + Investigação (Dificuldade 2) revela que há muito menos cortes do que nas vítimas anteriores, como se o assassino tivesse parado de repente. Três sucessos revelam que o os cortes parecem mais metódicos.
+A vítima não teve o sangue drenado, evidente pelo fato que ela repousa em uma grande piscina do mesmo. A face jovem não foi tocada e uma rolagem de Compose + Investigação (Dificuldade 2) revela que há muito menos cortes do que nas vítimas anteriores, como se o assassino tivesse parado de repente. Três sucessos revelam que o os cortes parecem mais metódicos.
 
 #### Investigando o quarto
 
 Olhando através dos pertences da mendiga não revela nada exceto que ela era usuária de drogas, pobre e provavelmente infeliz.
-Três sucessos em uma rolagem de Compostura + Investigação revela cartas não enviadas encondidas, onde ela implorava para ser levada de volta para sua família.
+Três sucessos em uma rolagem de Compose + Investigação revela cartas não enviadas encondidas, onde ela implorava para ser levada de volta para sua família.
 
 #### Investigando a casa
 
-A casa está em grande parte vazia, mas uma rolagem de Raciocínio + Insight (Dificuldade 3) revela um segundo quarto atrás de algumas tábuas soltas. Esse parece mais temporário, com um saco de dormir decente, fogão e MREs. Também contém uma caixa pequena com mechas de cabelo (troféus do Simon e Carl, mas isso não é tçao evidente). O quarto não é a prova de sol e restos de uma massa de colar nas paredes sugerem que algo foi arrancado com pressa.
+A casa está em grande parte vazia, mas uma rolagem de Raciocínio + Instinto (Dificuldade 3) revela um segundo quarto atrás de algumas tábuas soltas. Esse parece mais temporário, com um saco de dormir decente, fogão e MREs. Também contém uma caixa pequena com mechas de cabelo (troféus do Simon e Carl, mas isso não é tçao evidente). O quarto não é a prova de sol e restos de uma massa de colar nas paredes sugerem que algo foi arrancado com pressa.
 
 _O assassino ficou aqui por um tempo e se eles entenderem isso as evidências devem convencer a conterie que o assassino não é um vampiro._
 
@@ -307,7 +307,7 @@ Chamar pro exemplo um cachorro para seguir o assassino é uma ideia brilhante e 
 
 #### Vigiando/Parados
 
-Mesmo se nenhum personagem vigie propositadamente (por que eles tenham pouco incentivo de fazê-lo) permita algum personagem que ficar parado ou apenas assistindo outro personagem uma rolagem de Raciocínio + Insight (Dificuldade 3) para notar muitas formas se movendo no escuro fora do prédio. Continue para o Capítulo Dois.
+Mesmo se nenhum personagem vigie propositadamente (por que eles tenham pouco incentivo de fazê-lo) permita algum personagem que ficar parado ou apenas assistindo outro personagem uma rolagem de Raciocínio + Instinto (Dificuldade 3) para notar muitas formas se movendo no escuro fora do prédio. Continue para o Capítulo Dois.
 
 _NOTA: Role por último para algum personagem assistindo, pois as suas ações movem efetivamente para o próximo Capítulo._
 
@@ -335,9 +335,9 @@ _Exemplo: Nenhum ataque acerta Paul, Aileen é atacada poe seu alvo e o atacante
 
 #### Conjunto de Dados
 
-O Conjunto de Dados que cada participante usa em um turno do conflito é chamado de seu Conjunto de Dados. Em uma luta física, o Conjunto de Dados pode ser por exemplo Força + Briga ou Compostura + Armas de Fogo. Os personagens algumas vezes mudam o conjunto durante o conflito, por exemplo se trocarem de arma.
+O Conjunto de Dados que cada participante usa em um turno do conflito é chamado de seu Conjunto de Dados. Em uma luta física, o Conjunto de Dados pode ser por exemplo Força + Briga ou Compose + Armas de Fogo. Os personagens algumas vezes mudam o conjunto durante o conflito, por exemplo se trocarem de arma.
 
-_Exemplo: Aileen rola Compostura + Armas de Fogo contra Destreza + Atletismo do seu alvo, dois dados são reduzidos do Conjunto de Dados do alvo, enauqnto Charles começa com  Força + Briga versus Destreza + Armas Brancas do seu oponente. Se sobreviver, o atacante da Aileen rola Força + Briga contra Destreza + Atletismo da Aileen. O Narrador diz a Paul que ele encontra uma proteção sem precisar rolas, já que ele não foi atacado neste turno._
+_Exemplo: Aileen rola Compose + Armas de Fogo contra Destreza + Atletismo do seu alvo, dois dados são reduzidos do Conjunto de Dados do alvo, enauqnto Charles começa com  Força + Briga versus Destreza + Armas Brancas do seu oponente. Se sobreviver, o atacante da Aileen rola Força + Briga contra Destreza + Atletismo da Aileen. O Narrador diz a Paul que ele encontra uma proteção sem precisar rolas, já que ele não foi atacado neste turno._
 
 Ambos o atacante e o defensor rolam seus conjuntos de dados simultaneamente em um conflito básico. O sado que alcançar mais sucessos vence o turno do conflito. O vencedor subtrai os sucessos do perdedor do seu total e aplica o restante como dano (veja abaixo).
 Se o conflito é de Unilateral, como quando o defensor está rolando para evitar um tiro, somente o atacante pode infligir dano. Se ambos os participantes podem causar preuíjo ao seu oponente, o conflito é de Bilateral, com ambos os lados contando como atacantes. Nesse caso, as ações de ambas as partes são unidos em uma única Rolagem de Conflito.
@@ -412,18 +412,18 @@ Se a cena ocorreu no início da noite, inicie a próxima cena logo que os jogado
 ### Cena Dois: Bode expiatório
 
 Dependendo da hora essa cena acontece cedo ou tarde da noite. Ela é aberta e requer que os jogadores façam algumas escolhas. Começando quando o detetive Webber liga para falar de uma emergência. A terceira vítima colocou a comunidade em ação, eles já têm o nome do seu monstro: Harry lloyd. Eles estão agora no limite de fazer "justiça" com as próprias mãos. Webber acha que é excelente e sugere que os assassinatos sejam apontados para o Harry.
-All the coterie needs to do is make sure Harry doesn’t survive his encounter with the crowd; dead men get no counsel and present no alibis, and it will be easy for Webber to wrap everything up later.
-Give the coterie a moment to discuss the idea and what to do. Ideally, the coterie should have a thing or two to say on the morals of the situation. If they decide to do nothing, have Sam call them and give them a piece of her mind: this time, it isn’t optional.
-If they still decide to do nothing, Harry is placed in a coma by the mob, and they will be in trouble with Sam later; disobedience among Kindred carries a stiff, often fatal, price. Proceed to scene three.
-If the coterie decides to act, either to blame Harry or to save him (the coterie was in the same spot not long ago, after all), the scene proceeds to Harry’s house, now besieged by several dozen angry townspeople, working themselves up to storm in.
-What happens next is up to the coterie, below are some examples:
+Toda a coterie precisa ter certeza que Harry não vai sobreviver ao encontro com a multidão, um homem morto não tem advogado e não apresenta alibi, isso tornará mais fácil para o Webber encobrir tudo mais tarde.
+Dê a coterie um momento para discutirem a ideia e o que fazer. Provavelmente a coterie terá uma coisa ou duas para falar sobre a moralidade da situação. Se eles decidirem não fazer nada, Sam irá ligar e clarear suas mentes, nesse momento, não fazer nada não é uma opção.
+Se eles ainda decidirem em não fazer nada, Harry ficará em coma por causa da multidão e a coterie receberá uma ligação de Sam, desobediencia entre os Membros tem consequências, frequentemente fatais. Continue para a cena três.
+Se a coterie decidir agir, para matar harry ou ajudá-lo (afinal, a coterie estava na mesma situação há pouco tempo), a cena continua para a casa do Harry, agora cercada por muitos cidadãos enfurecidos.
+O que acontece em seguida depende da coterie, abaixo alguns exemplos:
 
 ```
-■ If they are passive, the crowd eventually storms the house and beats Harry into a coma, as above. At this point the coterie can sneak up to Harry in the commotion and finish the job with a Manipulation + Stealth (Difficulty 3).
-■ If they try to rile up the crowd and make them kill Harry, use Charisma + Performance (Difficulty 3) or Manipulation + Performance (Difficulty 4), depending on whether the characters talk directly to the crowd or hide among them, playing along. At least two characters need to succeed to whip the crowd up enough to make them do the deed. Many of them look quite distraught afterwards, not having counted on things going that far.
-■ If they want to talk the crowd into leaving, use the same pools, but one Difficulty higher since the crowd is far gone already.
-■ Sneaking into the house and getting Harry out the back requires a distraction - there are members of the crowd surrounding the house - likely Wits + Subterfuge (Difficulty 2, crowds are easy to manipulate), followed by Composure + Larceny (Difficulty 3) to get in. Harry needs little convincing to come along if the characters promise to help.
-■ Convincing Harry to show himself, yelling “gun!” and simply shooting him is Resolve + Subterfuge (Difficulty 3) followed by Composure + Firearms (Difficulty 2). Webber takes care of the rest.
+■ Se eles ficarem passivos, a multidão eventualmente irá entrar espancar o Harry e colocá-lo em coma, como ácima. Nesse ponto a coterie pode se esgueirar até o Harry no meio da comoção e terminar o serviço com uma rolagem de Manipulação + Furtividade (Dificuldade 3).
+■ Se eles tentarem manipular a multidão para matar o Harry, use Carisma + Atuação (Dificuldade 3) ou Manipulação + Atuação (Dificuldade 4), dependendo de como os personagens conversarem diretamente com a multidão ou se esconderem entre eles. Pelo menos dois jogadores precisam de sucesso para convencer a multidão a matá-lo. Vários deles ficarão preocupados depois, pois não tinham imaginado que a situação iria tão longe.
+■ Se eles querem conversar com a multidão para que desistam, use os mesmos dados, mas com a Dificuldade um ponto mais alta, já que a multidão quer avançar.
+■ Invadir a casa e fugir com o Harry por trás requer uma distração, existem pessoas em volta da casa, Raciocínio + Subterfúgio (Dificuldade 2, a multidão é facilmente manipulável), seguido por Compose + Furto (Dificuldade 3) para pegá-lo. Harry precisa ser convencido a sair da casa com a promessa dos personagens ajudarem.
+■ Convencendo Harry a se mostrar, gritando "arma!" e simplesmente atirando nele usando Percepção + Subterfúgio (Dificuldade 3) seguido de Composure + Armas de Fogo (Dificuldade 2). Webber se encarrega do resto.
 ```
 
 Inventive coteries can probably come up with more ideas.
